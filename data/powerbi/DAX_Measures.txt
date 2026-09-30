@@ -1,0 +1,309 @@
+
+QUICKCART POWER BI - DAX MEASURES
+=================================
+
+-- SALES KPIs
+
+Total Revenue =
+SUM(fact_order_items[Revenue])
+
+
+Net Revenue =
+SUM(fact_order_items[NetRevenue])
+
+
+Total Cost =
+SUM(fact_order_items[CostAmount])
+
+
+Gross Profit =
+[Net Revenue] - [Total Cost]
+
+
+Gross Margin % =
+DIVIDE(
+    [Gross Profit],
+    [Net Revenue],
+    0
+)
+
+
+-- ORDER KPIs
+
+Total Orders =
+DISTINCTCOUNT(fact_orders[OrderID])
+
+
+Total Customers =
+DISTINCTCOUNT(fact_orders[CustomerID])
+
+
+Total Units =
+SUM(fact_order_items[Quantity])
+
+
+Average Order Value =
+DIVIDE(
+    [Net Revenue],
+    [Total Orders],
+    0
+)
+
+
+Average Basket Size =
+DIVIDE(
+    [Total Units],
+    [Total Orders],
+    0
+)
+
+
+-- CUSTOMER KPIs
+
+Average Customer Revenue =
+DIVIDE(
+    [Net Revenue],
+    [Total Customers],
+    0
+)
+
+
+-- DISCOUNT
+
+Average Discount % =
+AVERAGE(
+    fact_order_items[DiscountPercent]
+)
+
+
+Total Discount =
+SUM(
+    fact_order_items[Discount]
+)
+
+
+-- RETURNS
+
+Returned Orders =
+CALCULATE(
+    [Total Orders],
+    fact_orders[ReturnStatus] = "Returned"
+)
+
+
+Return Rate % =
+DIVIDE(
+    [Returned Orders],
+    [Total Orders],
+    0
+)
+
+
+-- CANCELLATIONS
+
+Cancelled Orders =
+CALCULATE(
+    [Total Orders],
+    fact_orders[OrderStatus] = "Cancelled"
+)
+
+
+Cancellation Rate % =
+DIVIDE(
+    [Cancelled Orders],
+    [Total Orders],
+    0
+)
+
+
+-- DELIVERY
+
+Average Delivery Time =
+AVERAGE(
+    fact_deliveries[DeliveryTimeMinutes]
+)
+
+
+On Time Deliveries =
+CALCULATE(
+    COUNTROWS(fact_deliveries),
+    fact_deliveries[DeliveryTimeMinutes]
+        <= fact_deliveries[TargetDeliveryMinutes]
+)
+
+
+Total Deliveries =
+COUNTROWS(fact_deliveries)
+
+
+On Time Delivery % =
+DIVIDE(
+    [On Time Deliveries],
+    [Total Deliveries],
+    0
+)
+
+
+Late Deliveries =
+CALCULATE(
+    COUNTROWS(fact_deliveries),
+    fact_deliveries[DeliveryTimeMinutes]
+        >
+        fact_deliveries[TargetDeliveryMinutes]
+)
+
+
+Late Delivery % =
+DIVIDE(
+    [Late Deliveries],
+    [Total Deliveries],
+    0
+)
+
+
+-- INVENTORY
+
+Inventory Value =
+SUM(
+    fact_inventory[InventoryValue]
+)
+
+
+Low Stock Products =
+CALCULATE(
+    DISTINCTCOUNT(fact_inventory[ProductID]),
+    fact_inventory[InventoryStatus] = "Low Stock"
+)
+
+
+Stock Out Products =
+CALCULATE(
+    DISTINCTCOUNT(fact_inventory[ProductID]),
+    fact_inventory[InventoryStatus] = "Out of Stock"
+)
+
+
+-- TIME INTELLIGENCE
+
+Previous Month Revenue =
+CALCULATE(
+    [Net Revenue],
+    DATEADD(
+        dim_date[Date],
+        -1,
+        MONTH
+    )
+)
+
+
+MoM Revenue Growth % =
+DIVIDE(
+    [Net Revenue]
+        - [Previous Month Revenue],
+    [Previous Month Revenue],
+    0
+)
+
+
+Previous Year Revenue =
+CALCULATE(
+    [Net Revenue],
+    DATEADD(
+        dim_date[Date],
+        -1,
+        YEAR
+    )
+)
+
+
+YoY Revenue Growth % =
+DIVIDE(
+    [Net Revenue]
+        - [Previous Year Revenue],
+    [Previous Year Revenue],
+    0
+)
+
+
+Previous Year Orders =
+CALCULATE(
+    [Total Orders],
+    DATEADD(
+        dim_date[Date],
+        -1,
+        YEAR
+    )
+)
+
+
+Order Growth % =
+DIVIDE(
+    [Total Orders]
+        - [Previous Year Orders],
+    [Previous Year Orders],
+    0
+)
+
+
+-- PAYMENT
+
+Successful Payments =
+CALCULATE(
+    COUNTROWS(fact_payments),
+    fact_payments[PaymentStatus] = "Success"
+)
+
+
+Payment Success Rate % =
+DIVIDE(
+    [Successful Payments],
+    COUNTROWS(fact_payments),
+    0
+)
+
+
+-- PRODUCT
+
+Average Selling Price =
+DIVIDE(
+    [Net Revenue],
+    [Total Units],
+    0
+)
+
+
+-- CUSTOMER SEGMENTS
+
+Champions Customers =
+CALCULATE(
+    [Total Customers],
+    dim_customers[CustomerSegment] = "Champions"
+)
+
+
+Loyal Customers =
+CALCULATE(
+    [Total Customers],
+    dim_customers[CustomerSegment] = "Loyal Customers"
+)
+
+
+Potential Loyalists =
+CALCULATE(
+    [Total Customers],
+    dim_customers[CustomerSegment] = "Potential Loyalists"
+)
+
+
+At Risk Customers =
+CALCULATE(
+    [Total Customers],
+    dim_customers[CustomerSegment] = "At Risk"
+)
+
+
+Lost Customers =
+CALCULATE(
+    [Total Customers],
+    dim_customers[CustomerSegment] = "Lost Customers"
+)

@@ -1,0 +1,114 @@
+# ==============================
+# QUICKCART - Git Ignore File
+# ==============================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# PyCharm / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# Python distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Test reports
+.pytest_cache/
+test-results/
+
+# Local database files / backups
+*.sqlite
+*.sqlite3
+*.db
+*.sql.bak
+
+# MySQL local exports / dumps
+database/backups/
+*.dump
+
+# Power BI temporary / backup files
+*.pbi
+*.pbit-backup
+
+# Generated temporary reports
+reports/temp/
+reports/tmp/
+
+# Generated cache
+cache/
+temp/
+tmp/
+
+# OS / editor backup files
+*~
+*.orig
+
+# Secrets / credentials
+credentials.json
+secrets.json
+config.local.py
+
+# Personal local configuration
+local_settings.py
+
+# Generated Python reports
+*.pickle
+*.pkl
+
+# Node / frontend cache if added later
+node_modules/
+
+# General generated files
+*.cache

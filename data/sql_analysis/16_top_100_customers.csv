@@ -1,0 +1,101 @@
+CustomerID,Name,City,State,CustomerSegment,Orders,Units,NetRevenue
+C003490,Divya Verma,Ahmedabad,Gujarat,Loyal Customer,64,699.0,420806.56
+C001336,Gaurav Kadam,Chennai,Tamil Nadu,Loyal Customer,66,703.0,378853.03
+C006081,Deepak Das,Chennai,Tamil Nadu,Loyal Customer,64,763.0,374684.0
+C003581,Aditya More,Jaipur,Rajasthan,Loyal Customer,64,655.0,357362.16
+C001849,Aarav Joshi,Hyderabad,Telangana,Loyal Customer,57,633.0,345121.74
+C006536,Sakshi Reddy,Lucknow,Uttar Pradesh,Loyal Customer,58,643.0,334586.01
+C000395,Isha Bhosale,Ahmedabad,Gujarat,Loyal Customer,47,596.0,321853.75
+C004816,Ayush Mehta,Surat,Gujarat,Loyal Customer,47,548.0,319797.45
+C009317,Aniket Patil,Pune,Maharashtra,Loyal Customer,46,543.0,317141.35
+C005573,Harsh Jadhav,Pune,Maharashtra,Loyal Customer,65,645.0,311077.72
+C008826,Aniket Kulkarni,Bhopal,Madhya Pradesh,Loyal Customer,57,617.0,306190.2
+C005842,Neha Gaikwad,Warangal,Telangana,Loyal Customer,56,624.0,300848.31
+C009842,Sameer Thakur,Kolkata,West Bengal,Loyal Customer,53,590.0,298306.6
+C000668,Isha Nair,Aurangabad,Maharashtra,Loyal Customer,47,529.0,296651.34
+C011051,Divya Shah,Ahmedabad,Gujarat,Loyal Customer,46,552.0,296529.16
+C008692,Sakshi Reddy,Pune,Maharashtra,Loyal Customer,51,570.0,296367.99
+C007837,Harsh Gaikwad,Kanpur,Uttar Pradesh,Loyal Customer,53,525.0,288686.94
+C005959,Arjun Das,Nashik,Maharashtra,Loyal Customer,50,561.0,288011.82
+C007348,Karan Sawant,Nashik,Maharashtra,Loyal Customer,59,563.0,284798.33
+C002556,Aditya Singh,Nagpur,Maharashtra,Loyal Customer,53,531.0,282869.98
+C000248,Divya Sawant,Bengaluru,Karnataka,Loyal Customer,36,482.0,282219.67
+C007858,Sneha Das,Chennai,Tamil Nadu,Loyal Customer,58,541.0,277228.03
+C005872,Arjun Sharma,Mumbai,Maharashtra,Loyal Customer,57,584.0,274890.03
+C008267,Divya Kumar,Warangal,Telangana,Loyal Customer,43,499.0,274700.09
+C007033,Pooja Menon,Jaipur,Rajasthan,Loyal Customer,41,451.0,271457.88
+C006851,Aarav Gaikwad,Pune,Maharashtra,Loyal Customer,57,526.0,269527.32
+C006748,Manish Mehta,Kanpur,Uttar Pradesh,Loyal Customer,56,529.0,268986.93
+C010902,Sakshi Rao,Bengaluru,Karnataka,Loyal Customer,57,551.0,268847.36
+C007337,Anjali Verma,Jaipur,Rajasthan,Loyal Customer,39,463.0,268596.2
+C009185,Vikas Rao,Aurangabad,Maharashtra,Loyal Customer,44,498.0,266582.1
+C003088,Aniket Chavan,Hyderabad,Telangana,Loyal Customer,41,464.0,265843.48
+C009669,Kavita Kumar,Chennai,Tamil Nadu,Loyal Customer,48,531.0,264901.14
+C006526,Aditya Patil,Chennai,Tamil Nadu,Loyal Customer,59,542.0,264813.06
+C009171,Deepak Shah,Bengaluru,Karnataka,Loyal Customer,43,456.0,259651.9
+C009038,Arjun Kadam,Kolkata,West Bengal,Loyal Customer,50,506.0,259146.44
+C005742,Akash Verma,Delhi,Delhi,Loyal Customer,39,477.0,258632.4
+C008436,Neha Das,Hyderabad,Telangana,Loyal Customer,50,523.0,258220.85
+C000182,Arjun Thakur,Pune,Maharashtra,Loyal Customer,52,585.0,255389.57
+C005230,Akash Kulkarni,Chennai,Tamil Nadu,Loyal Customer,50,490.0,254630.6
+C010116,Sneha Sharma,Chennai,Tamil Nadu,Loyal Customer,44,475.0,254114.74
+C000189,Manish Banerjee,Pune,Maharashtra,Loyal Customer,45,463.0,252597.51
+C011060,Anjali Rao,Kanpur,Uttar Pradesh,Loyal Customer,39,455.0,252155.5
+C006410,Riya Iyer,Hyderabad,Telangana,Loyal Customer,40,463.0,251442.23
+C011900,Sameer Chavan,Mumbai,Maharashtra,Loyal Customer,38,467.0,250265.4
+C000271,Aditi Deshmukh,Pune,Maharashtra,Loyal Customer,46,497.0,249387.64
+C003596,Neha Kadam,Delhi,Delhi,Loyal Customer,49,497.0,248810.77
+C007804,Kavita Shinde,Ahmedabad,Gujarat,Loyal Customer,45,458.0,248234.25
+C006440,Nikhil Rao,Mumbai,Maharashtra,Loyal Customer,49,478.0,247517.41
+C000891,Rahul Gaikwad,Kolkata,West Bengal,Loyal Customer,46,503.0,245992.55
+C007161,Rahul Verma,Vadodara,Gujarat,Loyal Customer,39,462.0,245810.28
+C003815,Ananya Gaikwad,Bengaluru,Karnataka,Loyal Customer,46,448.0,244287.83
+C010928,Sakshi Banerjee,Lucknow,Uttar Pradesh,Loyal Customer,44,480.0,243924.3
+C000383,Ayush Verma,Chennai,Tamil Nadu,Loyal Customer,37,428.0,243480.88
+C011610,Amit Rao,Bhopal,Madhya Pradesh,Loyal Customer,41,464.0,241909.02
+C005249,Ananya Nair,Bhopal,Madhya Pradesh,Loyal Customer,44,477.0,241893.74
+C008887,Sonia Patil,Nashik,Maharashtra,Loyal Customer,47,517.0,241528.21
+C010086,Vikas Bhosale,Ahmedabad,Gujarat,Loyal Customer,43,441.0,240686.58
+C005580,Vivek Mehta,Nashik,Maharashtra,Loyal Customer,40,444.0,239959.87
+C000863,Rahul Rao,Bengaluru,Karnataka,Loyal Customer,41,429.0,239459.85
+C005273,Anjali Pawar,Bengaluru,Karnataka,Loyal Customer,48,447.0,238272.03
+C001855,Aditi Joshi,Pune,Maharashtra,Loyal Customer,33,352.0,235935.27
+C006433,Sameer Kadam,Pune,Maharashtra,Loyal Customer,40,420.0,235929.05
+C005659,Kavita Joshi,Aurangabad,Maharashtra,Loyal Customer,32,380.0,234849.59
+C006515,Gaurav Thakur,Mumbai,Maharashtra,Loyal Customer,45,485.0,234752.36
+C000176,Deepak Das,Kanpur,Uttar Pradesh,Loyal Customer,38,451.0,234647.12
+C007829,Pooja Shinde,Indore,Madhya Pradesh,Loyal Customer,43,458.0,233365.15
+C007660,Sameer Banerjee,Patna,Bihar,Loyal Customer,44,484.0,233289.68
+C011554,Ayush Gaikwad,Hyderabad,Telangana,Loyal Customer,36,423.0,233031.58
+C005973,Rahul Singh,Hyderabad,Telangana,Loyal Customer,49,434.0,232561.87
+C007014,Vivek Patil,Nagpur,Maharashtra,Loyal Customer,29,404.0,231698.3
+C006482,Harsh Kumar,Surat,Gujarat,Loyal Customer,37,448.0,230171.85
+C010908,Deepak Deshmukh,Nagpur,Maharashtra,Loyal Customer,40,398.0,229863.45
+C000820,Nikhil Mishra,Ahmedabad,Gujarat,Loyal Customer,36,431.0,229086.53
+C009303,Gaurav Jadhav,Kolkata,West Bengal,Loyal Customer,38,434.0,228500.08
+C008933,Sakshi Sawant,Pune,Maharashtra,Loyal Customer,38,444.0,228164.52
+C010976,Kavita Kadam,Mysuru,Karnataka,Loyal Customer,43,389.0,225411.91
+C009430,Isha Pawar,Delhi,Delhi,Loyal Customer,37,387.0,225103.6
+C003021,Pooja Shah,Nashik,Maharashtra,Loyal Customer,37,431.0,223682.58
+C010360,Akash Shah,Indore,Madhya Pradesh,Loyal Customer,38,408.0,223462.53
+C006968,Sameer Iyer,Jaipur,Rajasthan,Loyal Customer,38,405.0,222894.07
+C005640,Nikhil Menon,Pune,Maharashtra,Loyal Customer,35,408.0,222234.07
+C007286,Rahul Rao,Indore,Madhya Pradesh,Loyal Customer,39,453.0,221873.87
+C008517,Pooja Gupta,Surat,Gujarat,Loyal Customer,43,449.0,221769.0
+C008721,Pooja Sharma,Hyderabad,Telangana,Loyal Customer,34,368.0,221083.03
+C003735,Gaurav Gaikwad,Pune,Maharashtra,Loyal Customer,47,462.0,220849.97
+C002178,Akash More,Hyderabad,Telangana,Loyal Customer,31,380.0,220646.18
+C004162,Karan Reddy,Kanpur,Uttar Pradesh,Loyal Customer,32,391.0,220432.58
+C001365,Aditi Menon,Hyderabad,Telangana,Loyal Customer,43,401.0,220268.23
+C004018,Anjali Chavan,Vadodara,Gujarat,Loyal Customer,43,475.0,219656.95
+C002254,Amit Verma,Bengaluru,Karnataka,Loyal Customer,35,436.0,218986.6
+C010395,Deepak Sawant,Bengaluru,Karnataka,Loyal Customer,38,371.0,218836.24
+C006845,Sakshi Patil,Mumbai,Maharashtra,Loyal Customer,39,381.0,218803.21
+C000749,Vivek Das,Kolkata,West Bengal,Loyal Customer,44,431.0,217755.0
+C001921,Sakshi Yadav,Bhopal,Madhya Pradesh,Loyal Customer,40,439.0,217592.89
+C005705,Akash Kumar,Vadodara,Gujarat,Loyal Customer,37,422.0,216146.1
+C003627,Neha Shinde,Ahmedabad,Gujarat,Loyal Customer,46,452.0,216061.91
+C002708,Anjali More,Bhopal,Madhya Pradesh,Loyal Customer,42,451.0,215471.1
+C007641,Sonia Gaikwad,Nagpur,Maharashtra,Loyal Customer,40,389.0,215319.08
+C001891,Sonia Nair,Indore,Madhya Pradesh,Loyal Customer,35,361.0,215056.29
+C008253,Harsh Gaikwad,Patna,Bihar,Loyal Customer,34,440.0,214964.25

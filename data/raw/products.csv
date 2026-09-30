@@ -1,0 +1,751 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,CostPrice,Margin,StockQuantity,Supplier
+P0001,Fortune Soap 001,Personal Care,Soap,Fortune,1137.95,955.02,182.93,36,South India FMCG Supply
+P0002,Fortune Skincare 002,Personal Care,Skincare,Fortune,437.91,391.46,46.45,421,Udaan Distribution
+P0003,Daawat Butter 003,Dairy,Butter,Daawat,159.81,122.06,37.75,761,Udaan Distribution
+P0004,Kwality Wall's Toilet Cleaner 004,Household Cleaning,Toilet Cleaner,Kwality Wall's,210.23,132.16,78.07,81,DailyNeeds Distribution
+P0005,Parle Tea 005,Beverages,Tea,Parle,573.64,418.65,154.99,164,Nature's Basket Supply
+P0006,Nivea Cooking Oil 006,Staples,Cooking Oil,Nivea,363.79,277.45,86.34,999,GreenHarvest Suppliers
+P0007,Maggi Chips 007,Snacks,Chips,Maggi,293.34,213.21,80.13,646,Western India Grocery Supply
+P0008,Aashirvaad Root Vegetables 008,Fresh Vegetables,Root Vegetables,Aashirvaad,98.93,68.96,29.97,846,Hyderabad Wholesale Mart
+P0009,Real Pet Care 009,Other,Pet Care,Real,1165.4,1028.26,137.14,477,South India FMCG Supply
+P0010,Dettol Soft Drinks 010,Beverages,Soft Drinks,Dettol,757.32,535.64,221.68,951,BigBasket Wholesale
+P0011,PepsiCo Soft Drinks 011,Beverages,Soft Drinks,PepsiCo,292.38,198.15,94.23,735,Hyderabad Wholesale Mart
+P0012,Kurkure Wheat 012,Staples,Wheat,Kurkure,967.39,607.6,359.79,254,GreenHarvest Suppliers
+P0013,Head & Shoulders Utility 013,Other,Utility,Head & Shoulders,981.59,814.97,166.62,596,BigBasket Wholesale
+P0014,Kurkure Detergent 014,Household Cleaning,Detergent,Kurkure,887.88,703.59,184.29,171,Hyderabad Wholesale Mart
+P0015,ITC Ice Cream 015,Frozen Foods,Ice Cream,ITC,531.67,388.8,142.87,932,Hyderabad Wholesale Mart
+P0016,Parle Stationery 016,Other,Stationery,Parle,485.8,410.94,74.86,808,Maharashtra Food Supply
+P0017,Real Chips 017,Snacks,Chips,Real,704.43,540.54,163.89,248,DailyNeeds Distribution
+P0018,Kurkure Diapers 018,Baby Care,Diapers,Kurkure,1498.72,1146.35,352.37,169,Nature's Basket Supply
+P0019,Nivea Namkeen 019,Snacks,Namkeen,Nivea,552.2,414.06,138.14,863,Nature's Basket Supply
+P0020,Clinic Plus Baby Food 020,Baby Care,Baby Food,Clinic Plus,287.02,199.38,87.64,773,South India FMCG Supply
+P0021,Pears Cooking Oil 021,Staples,Cooking Oil,Pears,409.93,325.78,84.15,737,Udaan Distribution
+P0022,Colgate Mangoes 022,Fresh Fruits,Mangoes,Colgate,106.27,94.89,11.38,687,BigBasket Wholesale
+P0023,ITC Baby Lotion 023,Baby Care,Baby Lotion,ITC,879.7,567.63,312.07,171,Nature's Basket Supply
+P0024,Daawat Toilet Cleaner 024,Household Cleaning,Toilet Cleaner,Daawat,618.21,425.1,193.11,130,Metro Cash & Carry
+P0025,PepsiCo Chocolate 025,Snacks,Chocolate,PepsiCo,641.54,495.95,145.59,186,BigBasket Wholesale
+P0026,Kurkure Frozen Snacks 026,Frozen Foods,Frozen Snacks,Kurkure,194.0,127.46,66.54,585,Reliance Consumer Products
+P0027,Fortune Floor Cleaner 027,Household Cleaning,Floor Cleaner,Fortune,841.9,669.3,172.6,46,Nature's Basket Supply
+P0028,Kurkure Baby Lotion 028,Baby Care,Baby Lotion,Kurkure,386.16,281.25,104.91,798,FreshKart Distributors
+P0029,Kurkure Mangoes 029,Fresh Fruits,Mangoes,Kurkure,387.99,344.91,43.08,543,South India FMCG Supply
+P0030,Nivea Bananas 030,Fresh Fruits,Bananas,Nivea,466.4,401.49,64.91,124,DMart Supply Chain
+P0031,Dettol Cakes 031,Bakery,Cakes,Dettol,613.54,385.15,228.39,366,DMart Supply Chain
+P0032,Maggi Leafy Greens 032,Fresh Vegetables,Leafy Greens,Maggi,39.48,31.1,8.38,83,GreenHarvest Suppliers
+P0033,Red Bull Buns 033,Bakery,Buns,Red Bull,157.79,105.66,52.13,853,National FMCG Distribution
+P0034,Surf Excel Pulses 034,Staples,Pulses,Surf Excel,1156.01,759.24,396.77,252,DMart Supply Chain
+P0035,Daawat Rice 035,Staples,Rice,Daawat,126.1,83.73,42.37,250,Reliance Consumer Products
+P0036,Nestle Detergent 036,Household Cleaning,Detergent,Nestle,773.02,490.1,282.92,997,BigBasket Wholesale
+P0037,Kurkure Paneer 037,Dairy,Paneer,Kurkure,250.89,181.24,69.65,425,Nature's Basket Supply
+P0038,Coca-Cola Grapes 038,Fresh Fruits,Grapes,Coca-Cola,50.82,35.57,15.25,444,Maharashtra Food Supply
+P0039,Nestle Bread 039,Bakery,Bread,Nestle,488.15,410.79,77.36,616,BigBasket Wholesale
+P0040,Thums Up Detergent 040,Household Cleaning,Detergent,Thums Up,135.79,88.69,47.1,541,National FMCG Distribution
+P0041,Dove Cheese 041,Dairy,Cheese,Dove,335.65,216.07,119.58,782,Metro Cash & Carry
+P0042,PepsiCo Ice Cream 042,Frozen Foods,Ice Cream,PepsiCo,424.36,335.77,88.59,874,Hyderabad Wholesale Mart
+P0043,Colgate Cooking Oil 043,Staples,Cooking Oil,Colgate,333.87,216.54,117.33,422,Nature's Basket Supply
+P0044,Patanjali Onions 044,Fresh Vegetables,Onions,Patanjali,144.75,91.05,53.7,707,Reliance Consumer Products
+P0045,Dove Buns 045,Bakery,Buns,Dove,125.65,99.45,26.2,129,Metro Cash & Carry
+P0046,Vim Pet Care 046,Other,Pet Care,Vim,697.14,481.56,215.58,872,GreenHarvest Suppliers
+P0047,Parachute Pet Care 047,Other,Pet Care,Parachute,384.94,296.46,88.48,683,DailyNeeds Distribution
+P0048,Fortune Baby Food 048,Baby Care,Baby Food,Fortune,1601.13,1327.89,273.24,543,UrbanBasket Suppliers
+P0049,Amul Mangoes 049,Fresh Fruits,Mangoes,Amul,421.61,277.88,143.73,231,BigBasket Wholesale
+P0050,Kurkure Toilet Cleaner 050,Household Cleaning,Toilet Cleaner,Kurkure,985.18,720.65,264.53,189,Maharashtra Food Supply
+P0051,Daawat Toilet Cleaner 051,Household Cleaning,Toilet Cleaner,Daawat,328.22,204.71,123.51,897,South India FMCG Supply
+P0052,Head & Shoulders Rice 052,Staples,Rice,Head & Shoulders,1332.4,881.05,451.35,654,DMart Supply Chain
+P0053,PepsiCo Apples 053,Fresh Fruits,Apples,PepsiCo,40.0,31.02,8.98,766,UrbanBasket Suppliers
+P0054,Haldiram's Frozen Snacks 054,Frozen Foods,Frozen Snacks,Haldiram's,418.61,301.06,117.55,453,Reliance Consumer Products
+P0055,Parle Stationery 055,Other,Stationery,Parle,518.46,463.36,55.1,808,Udaan Distribution
+P0056,Lay's Apples 056,Fresh Fruits,Apples,Lay's,160.85,102.87,57.98,928,Metro Cash & Carry
+P0057,Mother Dairy Rice 057,Staples,Rice,Mother Dairy,1400.01,1073.22,326.79,34,UrbanBasket Suppliers
+P0058,Dettol Tomatoes 058,Fresh Vegetables,Tomatoes,Dettol,263.54,194.4,69.14,590,Maharashtra Food Supply
+P0059,Mother Dairy Namkeen 059,Snacks,Namkeen,Mother Dairy,515.64,454.94,60.7,728,National FMCG Distribution
+P0060,Parle Curd 060,Dairy,Curd,Parle,416.47,371.34,45.13,529,FreshKart Distributors
+P0061,London Dairy Skincare 061,Personal Care,Skincare,London Dairy,1168.84,863.2,305.64,65,Metro Cash & Carry
+P0062,PepsiCo Diapers 062,Baby Care,Diapers,PepsiCo,564.3,432.16,132.14,841,National FMCG Distribution
+P0063,PepsiCo Biscuits 063,Snacks,Biscuits,PepsiCo,185.5,131.13,54.37,849,DailyNeeds Distribution
+P0064,Fortune Apples 064,Fresh Fruits,Apples,Fortune,434.22,322.84,111.38,739,DailyNeeds Distribution
+P0065,Britannia Dishwash 065,Household Cleaning,Dishwash,Britannia,402.19,294.62,107.57,487,Udaan Distribution
+P0066,Surf Excel Surface Cleaner 066,Household Cleaning,Surface Cleaner,Surf Excel,679.09,540.59,138.5,584,Nature's Basket Supply
+P0067,Kurkure Cakes 067,Bakery,Cakes,Kurkure,525.88,413.36,112.52,614,National FMCG Distribution
+P0068,Dabur Toothpaste 068,Personal Care,Toothpaste,Dabur,932.41,800.63,131.78,708,Nature's Basket Supply
+P0069,London Dairy Surface Cleaner 069,Household Cleaning,Surface Cleaner,London Dairy,963.7,844.0,119.7,279,Nature's Basket Supply
+P0070,Thums Up Butter 070,Dairy,Butter,Thums Up,295.94,203.89,92.05,902,Western India Grocery Supply
+P0071,Nestle Baby Food 071,Baby Care,Baby Food,Nestle,950.93,626.93,324.0,660,Nature's Basket Supply
+P0072,Maggi Paneer 072,Dairy,Paneer,Maggi,390.64,270.11,120.53,891,Hyderabad Wholesale Mart
+P0073,Dove Frozen Snacks 073,Frozen Foods,Frozen Snacks,Dove,717.76,629.56,88.2,449,DailyNeeds Distribution
+P0074,India Gate Root Vegetables 074,Fresh Vegetables,Root Vegetables,India Gate,165.48,122.27,43.21,280,Reliance Consumer Products
+P0075,Lifebuoy Cakes 075,Bakery,Cakes,Lifebuoy,579.41,467.14,112.27,139,Western India Grocery Supply
+P0076,Daawat Juice 076,Beverages,Juice,Daawat,334.12,239.25,94.87,422,UrbanBasket Suppliers
+P0077,Thums Up Cooking Oil 077,Staples,Cooking Oil,Thums Up,641.6,442.42,199.18,128,National FMCG Distribution
+P0078,Fortune Pulses 078,Staples,Pulses,Fortune,1056.22,727.81,328.41,753,DailyNeeds Distribution
+P0079,Haldiram's Grapes 079,Fresh Fruits,Grapes,Haldiram's,106.4,93.61,12.79,992,Maharashtra Food Supply
+P0080,Red Bull Chips 080,Snacks,Chips,Red Bull,746.2,558.34,187.86,118,Udaan Distribution
+P0081,Mother Dairy Rice 081,Staples,Rice,Mother Dairy,478.89,403.23,75.66,867,Reliance Consumer Products
+P0082,Parle Diapers 082,Baby Care,Diapers,Parle,858.47,744.03,114.44,987,Udaan Distribution
+P0083,Amul Soft Drinks 083,Beverages,Soft Drinks,Amul,490.12,394.01,96.11,403,National FMCG Distribution
+P0084,Kwality Wall's Flour 084,Staples,Flour,Kwality Wall's,905.05,693.3,211.75,649,South India FMCG Supply
+P0085,Nivea Frozen Vegetables 085,Frozen Foods,Frozen Vegetables,Nivea,540.0,432.85,107.15,281,Reliance Consumer Products
+P0086,Paper Boat Miscellaneous 086,Other,Miscellaneous,Paper Boat,660.65,576.46,84.19,725,GreenHarvest Suppliers
+P0087,Thums Up Ready Meals 087,Frozen Foods,Ready Meals,Thums Up,531.08,473.91,57.17,59,Western India Grocery Supply
+P0088,Himalaya Detergent 088,Household Cleaning,Detergent,Himalaya,571.11,500.73,70.38,761,Udaan Distribution
+P0089,Dabur Kitchen Items 089,Other,Kitchen Items,Dabur,906.39,754.49,151.9,500,FreshKart Distributors
+P0090,Lay's Mangoes 090,Fresh Fruits,Mangoes,Lay's,397.5,262.63,134.87,241,Hyderabad Wholesale Mart
+P0091,Haldiram's Frozen Paneer 091,Frozen Foods,Frozen Paneer,Haldiram's,709.12,520.38,188.74,711,Reliance Consumer Products
+P0092,Patanjali Grapes 092,Fresh Fruits,Grapes,Patanjali,270.95,208.72,62.23,733,DMart Supply Chain
+P0093,India Gate Frozen Paneer 093,Frozen Foods,Frozen Paneer,India Gate,746.38,618.83,127.55,140,Western India Grocery Supply
+P0094,Nivea Utility 094,Other,Utility,Nivea,1085.65,887.9,197.75,186,Metro Cash & Carry
+P0095,Clinic Plus Mangoes 095,Fresh Fruits,Mangoes,Clinic Plus,236.3,167.23,69.07,877,Nature's Basket Supply
+P0096,Himalaya Potatoes 096,Fresh Vegetables,Potatoes,Himalaya,89.73,71.03,18.7,782,Maharashtra Food Supply
+P0097,Paper Boat Baby Food 097,Baby Care,Baby Food,Paper Boat,599.92,502.4,97.52,906,Reliance Consumer Products
+P0098,Nivea Baby Wipes 098,Baby Care,Baby Wipes,Nivea,1307.78,880.98,426.8,990,BigBasket Wholesale
+P0099,Surf Excel Tomatoes 099,Fresh Vegetables,Tomatoes,Surf Excel,56.96,35.65,21.31,639,Metro Cash & Carry
+P0100,Patanjali Frozen Vegetables 100,Frozen Foods,Frozen Vegetables,Patanjali,417.34,293.93,123.41,41,Maharashtra Food Supply
+P0101,Real Utility 101,Other,Utility,Real,665.88,521.24,144.64,54,Western India Grocery Supply
+P0102,Daawat Chocolate 102,Snacks,Chocolate,Daawat,391.58,345.28,46.3,289,National FMCG Distribution
+P0103,Himalaya Baby Soap 103,Baby Care,Baby Soap,Himalaya,952.24,792.16,160.08,970,FreshKart Distributors
+P0104,Mother Dairy Milk 104,Dairy,Milk,Mother Dairy,79.24,67.17,12.07,221,Metro Cash & Carry
+P0105,Real Surface Cleaner 105,Household Cleaning,Surface Cleaner,Real,307.23,270.76,36.47,828,Hyderabad Wholesale Mart
+P0106,Parachute Baby Food 106,Baby Care,Baby Food,Parachute,279.26,248.23,31.03,227,FreshKart Distributors
+P0107,Aashirvaad Butter 107,Dairy,Butter,Aashirvaad,429.84,385.51,44.33,81,National FMCG Distribution
+P0108,Tata Bread 108,Bakery,Bread,Tata,546.09,401.94,144.15,29,Hyderabad Wholesale Mart
+P0109,Kurkure Chips 109,Snacks,Chips,Kurkure,234.44,179.46,54.98,238,UrbanBasket Suppliers
+P0110,Himalaya Pulses 110,Staples,Pulses,Himalaya,360.48,307.03,53.45,586,Maharashtra Food Supply
+P0111,Parle Baby Wipes 111,Baby Care,Baby Wipes,Parle,1227.38,809.83,417.55,168,Metro Cash & Carry
+P0112,Pears Leafy Greens 112,Fresh Vegetables,Leafy Greens,Pears,178.52,148.32,30.2,791,DMart Supply Chain
+P0113,Lifebuoy Toothpaste 113,Personal Care,Toothpaste,Lifebuoy,351.84,310.78,41.06,462,DailyNeeds Distribution
+P0114,Red Bull Mangoes 114,Fresh Fruits,Mangoes,Red Bull,128.6,89.58,39.02,402,Reliance Consumer Products
+P0115,Clinic Plus Skincare 115,Personal Care,Skincare,Clinic Plus,1046.98,722.82,324.16,150,DailyNeeds Distribution
+P0116,Pears Surface Cleaner 116,Household Cleaning,Surface Cleaner,Pears,442.14,289.99,152.15,670,UrbanBasket Suppliers
+P0117,Clinic Plus Curd 117,Dairy,Curd,Clinic Plus,193.95,132.57,61.38,463,Hyderabad Wholesale Mart
+P0118,London Dairy Frozen Vegetables 118,Frozen Foods,Frozen Vegetables,London Dairy,596.75,419.36,177.39,815,DMart Supply Chain
+P0119,Real Milk 119,Dairy,Milk,Real,254.16,195.69,58.47,846,Udaan Distribution
+P0120,India Gate Juice 120,Beverages,Juice,India Gate,281.86,229.36,52.5,991,South India FMCG Supply
+P0121,Nivea Surface Cleaner 121,Household Cleaning,Surface Cleaner,Nivea,771.97,513.31,258.66,623,FreshKart Distributors
+P0122,Clinic Plus Utility 122,Other,Utility,Clinic Plus,803.38,593.93,209.45,500,South India FMCG Supply
+P0123,Nivea Tea 123,Beverages,Tea,Nivea,440.21,320.22,119.99,84,Nature's Basket Supply
+P0124,PepsiCo Namkeen 124,Snacks,Namkeen,PepsiCo,274.27,207.41,66.86,340,DailyNeeds Distribution
+P0125,Fortune Coffee 125,Beverages,Coffee,Fortune,298.36,242.93,55.43,865,BigBasket Wholesale
+P0126,London Dairy Energy Drinks 126,Beverages,Energy Drinks,London Dairy,233.21,182.21,51.0,694,Udaan Distribution
+P0127,Aashirvaad Cooking Oil 127,Staples,Cooking Oil,Aashirvaad,1166.37,953.39,212.98,723,GreenHarvest Suppliers
+P0128,India Gate Baby Soap 128,Baby Care,Baby Soap,India Gate,632.37,427.83,204.54,615,Hyderabad Wholesale Mart
+P0129,Tata Cakes 129,Bakery,Cakes,Tata,589.28,482.26,107.02,272,National FMCG Distribution
+P0130,Maggi Cooking Oil 130,Staples,Cooking Oil,Maggi,1336.55,899.92,436.63,403,Metro Cash & Carry
+P0131,Himalaya Pulses 131,Staples,Pulses,Himalaya,442.57,327.9,114.67,570,National FMCG Distribution
+P0132,Colgate Coffee 132,Beverages,Coffee,Colgate,85.48,73.95,11.53,405,South India FMCG Supply
+P0133,Amul Buns 133,Bakery,Buns,Amul,183.59,117.21,66.38,970,DMart Supply Chain
+P0134,Daawat Toilet Cleaner 134,Household Cleaning,Toilet Cleaner,Daawat,831.89,629.65,202.24,450,South India FMCG Supply
+P0135,Britannia Flour 135,Staples,Flour,Britannia,960.76,732.99,227.77,130,FreshKart Distributors
+P0136,Paper Boat Toilet Cleaner 136,Household Cleaning,Toilet Cleaner,Paper Boat,172.28,146.32,25.96,390,Nature's Basket Supply
+P0137,Parle Apples 137,Fresh Fruits,Apples,Parle,89.43,67.08,22.35,150,Udaan Distribution
+P0138,Dove Leafy Greens 138,Fresh Vegetables,Leafy Greens,Dove,269.57,199.85,69.72,30,Reliance Consumer Products
+P0139,Head & Shoulders Onions 139,Fresh Vegetables,Onions,Head & Shoulders,97.61,76.1,21.51,256,National FMCG Distribution
+P0140,Clinic Plus Cooking Oil 140,Staples,Cooking Oil,Clinic Plus,1140.0,729.83,410.17,382,South India FMCG Supply
+P0141,Mother Dairy Wheat 141,Staples,Wheat,Mother Dairy,896.97,615.81,281.16,195,Hyderabad Wholesale Mart
+P0142,India Gate Soap 142,Personal Care,Soap,India Gate,70.06,59.91,10.15,604,South India FMCG Supply
+P0143,PepsiCo Utility 143,Other,Utility,PepsiCo,598.92,522.98,75.94,885,GreenHarvest Suppliers
+P0144,Dettol Soap 144,Personal Care,Soap,Dettol,751.05,488.39,262.66,959,Maharashtra Food Supply
+P0145,Haldiram's Flour 145,Staples,Flour,Haldiram's,396.22,322.37,73.85,613,Reliance Consumer Products
+P0146,Patanjali Frozen Paneer 146,Frozen Foods,Frozen Paneer,Patanjali,293.61,194.59,99.02,438,BigBasket Wholesale
+P0147,Patanjali Miscellaneous 147,Other,Miscellaneous,Patanjali,894.82,709.01,185.81,649,Metro Cash & Carry
+P0148,India Gate Shampoo 148,Personal Care,Shampoo,India Gate,362.48,236.73,125.75,523,GreenHarvest Suppliers
+P0149,Maggi Hair Care 149,Personal Care,Hair Care,Maggi,73.82,55.95,17.87,417,Nature's Basket Supply
+P0150,Dove Surface Cleaner 150,Household Cleaning,Surface Cleaner,Dove,195.84,172.01,23.83,877,Nature's Basket Supply
+P0151,Surf Excel Miscellaneous 151,Other,Miscellaneous,Surf Excel,502.69,421.75,80.94,381,GreenHarvest Suppliers
+P0152,Dettol Toothpaste 152,Personal Care,Toothpaste,Dettol,384.28,321.01,63.27,634,National FMCG Distribution
+P0153,Fortune Detergent 153,Household Cleaning,Detergent,Fortune,666.75,588.0,78.75,750,BigBasket Wholesale
+P0154,Fortune Oranges 154,Fresh Fruits,Oranges,Fortune,205.38,183.66,21.72,466,Nature's Basket Supply
+P0155,Kwality Wall's Miscellaneous 155,Other,Miscellaneous,Kwality Wall's,541.71,434.72,106.99,295,DMart Supply Chain
+P0156,Himalaya Juice 156,Beverages,Juice,Himalaya,159.78,105.61,54.17,680,Metro Cash & Carry
+P0157,Saffola Pastries 157,Bakery,Pastries,Saffola,188.74,167.95,20.79,410,GreenHarvest Suppliers
+P0158,Lifebuoy Tea 158,Beverages,Tea,Lifebuoy,574.47,491.49,82.98,650,DMart Supply Chain
+P0159,Britannia Utility 159,Other,Utility,Britannia,122.73,78.43,44.3,483,Udaan Distribution
+P0160,Fortune Butter 160,Dairy,Butter,Fortune,278.46,182.7,95.76,210,DailyNeeds Distribution
+P0161,Lay's Pulses 161,Staples,Pulses,Lay's,804.74,672.03,132.71,114,Metro Cash & Carry
+P0162,Fortune Frozen Vegetables 162,Frozen Foods,Frozen Vegetables,Fortune,800.45,525.01,275.44,907,Western India Grocery Supply
+P0163,Coca-Cola Pet Care 163,Other,Pet Care,Coca-Cola,580.19,453.41,126.78,191,Hyderabad Wholesale Mart
+P0164,Vim Rice 164,Staples,Rice,Vim,1083.17,954.42,128.75,123,South India FMCG Supply
+P0165,India Gate Chips 165,Snacks,Chips,India Gate,705.57,525.68,179.89,397,DMart Supply Chain
+P0166,Fortune Pet Care 166,Other,Pet Care,Fortune,1120.62,931.48,189.14,28,Hyderabad Wholesale Mart
+P0167,PepsiCo Coffee 167,Beverages,Coffee,PepsiCo,656.25,498.58,157.67,936,Hyderabad Wholesale Mart
+P0168,Aashirvaad Oranges 168,Fresh Fruits,Oranges,Aashirvaad,62.24,53.3,8.94,155,Metro Cash & Carry
+P0169,Real Cooking Oil 169,Staples,Cooking Oil,Real,1185.58,913.52,272.06,485,South India FMCG Supply
+P0170,Dettol Milk 170,Dairy,Milk,Dettol,394.88,271.97,122.91,88,Metro Cash & Carry
+P0171,Amul Soap 171,Personal Care,Soap,Amul,579.89,392.19,187.7,713,Udaan Distribution
+P0172,India Gate Hair Care 172,Personal Care,Hair Care,India Gate,514.48,387.4,127.08,682,National FMCG Distribution
+P0173,Clinic Plus Cookies 173,Bakery,Cookies,Clinic Plus,585.95,404.41,181.54,789,South India FMCG Supply
+P0174,London Dairy Dry Fruits 174,Snacks,Dry Fruits,London Dairy,462.77,351.74,111.03,844,Metro Cash & Carry
+P0175,Parle Bananas 175,Fresh Fruits,Bananas,Parle,497.57,330.51,167.06,138,South India FMCG Supply
+P0176,Paper Boat Frozen Paneer 176,Frozen Foods,Frozen Paneer,Paper Boat,355.56,317.63,37.93,518,FreshKart Distributors
+P0177,Dove Rice 177,Staples,Rice,Dove,1173.85,809.84,364.01,480,FreshKart Distributors
+P0178,Lay's Frozen Snacks 178,Frozen Foods,Frozen Snacks,Lay's,304.93,273.04,31.89,252,FreshKart Distributors
+P0179,Nivea Floor Cleaner 179,Household Cleaning,Floor Cleaner,Nivea,498.37,383.62,114.75,923,FreshKart Distributors
+P0180,Aashirvaad Pulses 180,Staples,Pulses,Aashirvaad,1441.45,1198.27,243.18,169,FreshKart Distributors
+P0181,Coca-Cola Diapers 181,Baby Care,Diapers,Coca-Cola,171.37,131.92,39.45,415,Nature's Basket Supply
+P0182,Parle Baby Lotion 182,Baby Care,Baby Lotion,Parle,585.6,392.41,193.19,584,South India FMCG Supply
+P0183,Himalaya Detergent 183,Household Cleaning,Detergent,Himalaya,391.33,331.0,60.33,964,DMart Supply Chain
+P0184,Amul Cakes 184,Bakery,Cakes,Amul,150.91,105.77,45.14,296,DMart Supply Chain
+P0185,Pears Apples 185,Fresh Fruits,Apples,Pears,330.11,262.78,67.33,479,BigBasket Wholesale
+P0186,Head & Shoulders Toothpaste 186,Personal Care,Toothpaste,Head & Shoulders,448.96,363.01,85.95,396,Maharashtra Food Supply
+P0187,Parachute Grapes 187,Fresh Fruits,Grapes,Parachute,446.43,306.98,139.45,463,DMart Supply Chain
+P0188,Daawat Bread 188,Bakery,Bread,Daawat,609.19,461.97,147.22,177,National FMCG Distribution
+P0189,Patanjali Toothpaste 189,Personal Care,Toothpaste,Patanjali,880.93,726.95,153.98,165,National FMCG Distribution
+P0190,Head & Shoulders Rice 190,Staples,Rice,Head & Shoulders,449.85,377.12,72.73,65,FreshKart Distributors
+P0191,Aashirvaad Biscuits 191,Snacks,Biscuits,Aashirvaad,388.17,328.3,59.87,838,BigBasket Wholesale
+P0192,Daawat Cheese 192,Dairy,Cheese,Daawat,175.43,112.89,62.54,20,South India FMCG Supply
+P0193,Nestle Potatoes 193,Fresh Vegetables,Potatoes,Nestle,223.63,151.99,71.64,244,Udaan Distribution
+P0194,Nivea Dishwash 194,Household Cleaning,Dishwash,Nivea,135.17,104.26,30.91,940,DMart Supply Chain
+P0195,Real Energy Drinks 195,Beverages,Energy Drinks,Real,391.07,247.22,143.85,610,DailyNeeds Distribution
+P0196,Maggi Pastries 196,Bakery,Pastries,Maggi,545.36,410.4,134.96,703,Western India Grocery Supply
+P0197,Saffola Baby Wipes 197,Baby Care,Baby Wipes,Saffola,559.82,410.75,149.07,938,Western India Grocery Supply
+P0198,Mother Dairy Wheat 198,Staples,Wheat,Mother Dairy,750.92,606.83,144.09,541,FreshKart Distributors
+P0199,Red Bull Chocolate 199,Snacks,Chocolate,Red Bull,857.85,699.92,157.93,903,Reliance Consumer Products
+P0200,Fortune Biscuits 200,Snacks,Biscuits,Fortune,216.79,147.55,69.24,921,Hyderabad Wholesale Mart
+P0201,Fortune Pulses 201,Staples,Pulses,Fortune,192.97,144.38,48.59,391,UrbanBasket Suppliers
+P0202,London Dairy Skincare 202,Personal Care,Skincare,London Dairy,430.9,378.02,52.88,186,South India FMCG Supply
+P0203,Parle Frozen Paneer 203,Frozen Foods,Frozen Paneer,Parle,368.84,240.11,128.73,466,GreenHarvest Suppliers
+P0204,Fortune Skincare 204,Personal Care,Skincare,Fortune,594.15,529.65,64.5,980,FreshKart Distributors
+P0205,Lay's Tea 205,Beverages,Tea,Lay's,404.62,251.11,153.51,970,BigBasket Wholesale
+P0206,Dove Hair Care 206,Personal Care,Hair Care,Dove,544.62,454.31,90.31,269,FreshKart Distributors
+P0207,Maggi Frozen Snacks 207,Frozen Foods,Frozen Snacks,Maggi,630.14,462.42,167.72,893,Metro Cash & Carry
+P0208,ITC Tomatoes 208,Fresh Vegetables,Tomatoes,ITC,242.93,218.06,24.87,573,DMart Supply Chain
+P0209,ITC Skincare 209,Personal Care,Skincare,ITC,1165.57,785.28,380.29,683,UrbanBasket Suppliers
+P0210,Amul Milk 210,Dairy,Milk,Amul,131.22,113.19,18.03,883,Maharashtra Food Supply
+P0211,Fortune Juice 211,Beverages,Juice,Fortune,61.13,39.73,21.4,358,DMart Supply Chain
+P0212,Parachute Tomatoes 212,Fresh Vegetables,Tomatoes,Parachute,296.69,215.98,80.71,861,DMart Supply Chain
+P0213,Red Bull Wheat 213,Staples,Wheat,Red Bull,1490.55,1296.61,193.94,627,DailyNeeds Distribution
+P0214,Saffola Dry Fruits 214,Snacks,Dry Fruits,Saffola,751.99,616.9,135.09,86,DMart Supply Chain
+P0215,Colgate Surface Cleaner 215,Household Cleaning,Surface Cleaner,Colgate,664.86,468.07,196.79,118,Metro Cash & Carry
+P0216,Lifebuoy Surface Cleaner 216,Household Cleaning,Surface Cleaner,Lifebuoy,326.68,258.03,68.65,366,National FMCG Distribution
+P0217,Himalaya Baby Food 217,Baby Care,Baby Food,Himalaya,858.31,543.76,314.55,333,GreenHarvest Suppliers
+P0218,London Dairy Chocolate 218,Snacks,Chocolate,London Dairy,838.84,568.4,270.44,887,GreenHarvest Suppliers
+P0219,Dove Namkeen 219,Snacks,Namkeen,Dove,425.93,299.47,126.46,57,BigBasket Wholesale
+P0220,Parachute Tomatoes 220,Fresh Vegetables,Tomatoes,Parachute,52.96,46.07,6.89,479,UrbanBasket Suppliers
+P0221,Parle Curd 221,Dairy,Curd,Parle,469.11,331.87,137.24,613,Udaan Distribution
+P0222,Kwality Wall's Pulses 222,Staples,Pulses,Kwality Wall's,227.8,163.92,63.88,985,FreshKart Distributors
+P0223,Parachute Baby Wipes 223,Baby Care,Baby Wipes,Parachute,1692.39,1423.75,268.64,504,Udaan Distribution
+P0224,Real Diapers 224,Baby Care,Diapers,Real,752.17,604.28,147.89,70,Metro Cash & Carry
+P0225,Paper Boat Mangoes 225,Fresh Fruits,Mangoes,Paper Boat,413.76,318.69,95.07,427,Metro Cash & Carry
+P0226,Patanjali Stationery 226,Other,Stationery,Patanjali,984.46,680.58,303.88,744,Metro Cash & Carry
+P0227,Fortune Toothpaste 227,Personal Care,Toothpaste,Fortune,854.83,767.57,87.26,822,DailyNeeds Distribution
+P0228,London Dairy Butter 228,Dairy,Butter,London Dairy,307.53,191.67,115.86,171,DMart Supply Chain
+P0229,Dettol Bananas 229,Fresh Fruits,Bananas,Dettol,317.8,200.86,116.94,949,Hyderabad Wholesale Mart
+P0230,London Dairy Wheat 230,Staples,Wheat,London Dairy,1167.75,844.48,323.27,748,Reliance Consumer Products
+P0231,Real Energy Drinks 231,Beverages,Energy Drinks,Real,32.11,24.56,7.55,864,Nature's Basket Supply
+P0232,Dove Cakes 232,Bakery,Cakes,Dove,292.71,209.46,83.25,774,Metro Cash & Carry
+P0233,PepsiCo Utility 233,Other,Utility,PepsiCo,487.11,366.28,120.83,624,Hyderabad Wholesale Mart
+P0234,Vim Ready Meals 234,Frozen Foods,Ready Meals,Vim,788.13,547.94,240.19,60,FreshKart Distributors
+P0235,Daawat Surface Cleaner 235,Household Cleaning,Surface Cleaner,Daawat,566.46,389.94,176.52,65,Udaan Distribution
+P0236,Mother Dairy Namkeen 236,Snacks,Namkeen,Mother Dairy,538.6,339.2,199.4,84,FreshKart Distributors
+P0237,Dabur Toilet Cleaner 237,Household Cleaning,Toilet Cleaner,Dabur,891.31,659.45,231.86,965,UrbanBasket Suppliers
+P0238,Lifebuoy Energy Drinks 238,Beverages,Energy Drinks,Lifebuoy,233.82,152.07,81.75,892,Maharashtra Food Supply
+P0239,Parachute Bananas 239,Fresh Fruits,Bananas,Parachute,221.61,199.18,22.43,254,Udaan Distribution
+P0240,Patanjali Bananas 240,Fresh Fruits,Bananas,Patanjali,222.61,173.55,49.06,97,BigBasket Wholesale
+P0241,India Gate Dry Fruits 241,Snacks,Dry Fruits,India Gate,34.38,22.58,11.8,770,FreshKart Distributors
+P0242,Clinic Plus Baby Soap 242,Baby Care,Baby Soap,Clinic Plus,168.06,104.72,63.34,238,Western India Grocery Supply
+P0243,Coca-Cola Pastries 243,Bakery,Pastries,Coca-Cola,128.06,106.83,21.23,418,GreenHarvest Suppliers
+P0244,Harpic Cookies 244,Bakery,Cookies,Harpic,538.64,482.63,56.01,459,Hyderabad Wholesale Mart
+P0245,Dettol Onions 245,Fresh Vegetables,Onions,Dettol,25.79,22.27,3.52,787,Maharashtra Food Supply
+P0246,Surf Excel Stationery 246,Other,Stationery,Surf Excel,372.01,308.03,63.98,185,Western India Grocery Supply
+P0247,Surf Excel Soap 247,Personal Care,Soap,Surf Excel,162.24,103.69,58.55,336,Nature's Basket Supply
+P0248,Parle Pastries 248,Bakery,Pastries,Parle,786.94,515.84,271.1,893,DMart Supply Chain
+P0249,Parle Bananas 249,Fresh Fruits,Bananas,Parle,394.36,271.18,123.18,296,GreenHarvest Suppliers
+P0250,Patanjali Milk 250,Dairy,Milk,Patanjali,99.22,68.02,31.2,818,Nature's Basket Supply
+P0251,Pears Buns 251,Bakery,Buns,Pears,405.74,295.37,110.37,824,DMart Supply Chain
+P0252,ITC Onions 252,Fresh Vegetables,Onions,ITC,69.39,46.78,22.61,578,Nature's Basket Supply
+P0253,Head & Shoulders Biscuits 253,Snacks,Biscuits,Head & Shoulders,873.09,598.4,274.69,84,GreenHarvest Suppliers
+P0254,Maggi Curd 254,Dairy,Curd,Maggi,327.59,231.58,96.01,218,Metro Cash & Carry
+P0255,Mother Dairy Floor Cleaner 255,Household Cleaning,Floor Cleaner,Mother Dairy,862.3,584.69,277.61,462,Nature's Basket Supply
+P0256,Red Bull Root Vegetables 256,Fresh Vegetables,Root Vegetables,Red Bull,66.91,48.58,18.33,515,BigBasket Wholesale
+P0257,Lifebuoy Frozen Vegetables 257,Frozen Foods,Frozen Vegetables,Lifebuoy,684.46,441.06,243.4,526,DailyNeeds Distribution
+P0258,Paper Boat Buns 258,Bakery,Buns,Paper Boat,528.32,446.03,82.29,62,Nature's Basket Supply
+P0259,Vim Oranges 259,Fresh Fruits,Oranges,Vim,302.63,270.92,31.71,700,Reliance Consumer Products
+P0260,London Dairy Juice 260,Beverages,Juice,London Dairy,674.89,424.18,250.71,902,National FMCG Distribution
+P0261,Aashirvaad Detergent 261,Household Cleaning,Detergent,Aashirvaad,150.22,113.3,36.92,804,DailyNeeds Distribution
+P0262,Aashirvaad Root Vegetables 262,Fresh Vegetables,Root Vegetables,Aashirvaad,158.42,98.39,60.03,763,Maharashtra Food Supply
+P0263,Head & Shoulders Tea 263,Beverages,Tea,Head & Shoulders,55.01,36.64,18.37,344,GreenHarvest Suppliers
+P0264,India Gate Flour 264,Staples,Flour,India Gate,667.18,593.19,73.99,129,DailyNeeds Distribution
+P0265,Aashirvaad Mangoes 265,Fresh Fruits,Mangoes,Aashirvaad,158.81,126.05,32.76,176,National FMCG Distribution
+P0266,London Dairy Namkeen 266,Snacks,Namkeen,London Dairy,878.11,700.85,177.26,530,DMart Supply Chain
+P0267,London Dairy Namkeen 267,Snacks,Namkeen,London Dairy,43.01,35.27,7.74,209,Reliance Consumer Products
+P0268,Aashirvaad Kitchen Items 268,Other,Kitchen Items,Aashirvaad,644.2,471.64,172.56,122,UrbanBasket Suppliers
+P0269,Haldiram's Tea 269,Beverages,Tea,Haldiram's,621.36,503.84,117.52,146,Udaan Distribution
+P0270,Dove Paneer 270,Dairy,Paneer,Dove,486.21,406.07,80.14,303,South India FMCG Supply
+P0271,India Gate Dry Fruits 271,Snacks,Dry Fruits,India Gate,776.14,522.15,253.99,582,UrbanBasket Suppliers
+P0272,Lay's Ready Meals 272,Frozen Foods,Ready Meals,Lay's,588.18,480.36,107.82,936,UrbanBasket Suppliers
+P0273,Lay's Shampoo 273,Personal Care,Shampoo,Lay's,1059.66,926.11,133.55,361,UrbanBasket Suppliers
+P0274,Aashirvaad Biscuits 274,Snacks,Biscuits,Aashirvaad,103.0,65.45,37.55,24,DMart Supply Chain
+P0275,Nestle Leafy Greens 275,Fresh Vegetables,Leafy Greens,Nestle,246.66,193.95,52.71,129,Maharashtra Food Supply
+P0276,Parachute Chips 276,Snacks,Chips,Parachute,807.62,670.87,136.75,362,Hyderabad Wholesale Mart
+P0277,Fortune Curd 277,Dairy,Curd,Fortune,524.01,379.05,144.96,37,National FMCG Distribution
+P0278,Aashirvaad Dishwash 278,Household Cleaning,Dishwash,Aashirvaad,753.59,504.75,248.84,718,Metro Cash & Carry
+P0279,London Dairy Cakes 279,Bakery,Cakes,London Dairy,557.87,365.39,192.48,610,Reliance Consumer Products
+P0280,Nivea Pet Care 280,Other,Pet Care,Nivea,308.36,240.42,67.94,647,Hyderabad Wholesale Mart
+P0281,Vim Baby Lotion 281,Baby Care,Baby Lotion,Vim,987.78,793.78,194.0,434,DailyNeeds Distribution
+P0282,Parachute Frozen Paneer 282,Frozen Foods,Frozen Paneer,Parachute,327.81,238.45,89.36,930,Udaan Distribution
+P0283,Colgate Leafy Greens 283,Fresh Vegetables,Leafy Greens,Colgate,189.47,170.45,19.02,137,Western India Grocery Supply
+P0284,Vim Hair Care 284,Personal Care,Hair Care,Vim,340.88,294.56,46.32,208,National FMCG Distribution
+P0285,Tata Baby Wipes 285,Baby Care,Baby Wipes,Tata,507.9,355.99,151.91,256,Western India Grocery Supply
+P0286,Parle Rice 286,Staples,Rice,Parle,622.34,391.91,230.43,303,Western India Grocery Supply
+P0287,Amul Root Vegetables 287,Fresh Vegetables,Root Vegetables,Amul,78.86,68.53,10.33,732,Western India Grocery Supply
+P0288,Haldiram's Oranges 288,Fresh Fruits,Oranges,Haldiram's,134.91,115.96,18.95,761,Nature's Basket Supply
+P0289,Real Diapers 289,Baby Care,Diapers,Real,1760.87,1398.06,362.81,551,Nature's Basket Supply
+P0290,Patanjali Baby Soap 290,Baby Care,Baby Soap,Patanjali,426.66,308.13,118.53,231,Western India Grocery Supply
+P0291,Vim Toothpaste 291,Personal Care,Toothpaste,Vim,815.74,517.92,297.82,268,DailyNeeds Distribution
+P0292,PepsiCo Toilet Cleaner 292,Household Cleaning,Toilet Cleaner,PepsiCo,106.0,95.31,10.69,494,FreshKart Distributors
+P0293,Britannia Milk 293,Dairy,Milk,Britannia,291.49,238.75,52.74,443,National FMCG Distribution
+P0294,Fortune Onions 294,Fresh Vegetables,Onions,Fortune,98.21,76.67,21.54,34,Udaan Distribution
+P0295,Parle Surface Cleaner 295,Household Cleaning,Surface Cleaner,Parle,487.16,397.09,90.07,249,South India FMCG Supply
+P0296,PepsiCo Dishwash 296,Household Cleaning,Dishwash,PepsiCo,508.23,401.82,106.41,184,DailyNeeds Distribution
+P0297,Patanjali Dishwash 297,Household Cleaning,Dishwash,Patanjali,185.48,126.37,59.11,680,UrbanBasket Suppliers
+P0298,Lifebuoy Toilet Cleaner 298,Household Cleaning,Toilet Cleaner,Lifebuoy,539.12,344.22,194.9,132,Hyderabad Wholesale Mart
+P0299,Saffola Namkeen 299,Snacks,Namkeen,Saffola,627.12,516.68,110.44,694,Udaan Distribution
+P0300,Red Bull Cookies 300,Bakery,Cookies,Red Bull,87.86,55.53,32.33,129,Reliance Consumer Products
+P0301,Colgate Flour 301,Staples,Flour,Colgate,404.23,255.41,148.82,973,GreenHarvest Suppliers
+P0302,Fortune Pastries 302,Bakery,Pastries,Fortune,742.57,476.65,265.92,662,GreenHarvest Suppliers
+P0303,Amul Surface Cleaner 303,Household Cleaning,Surface Cleaner,Amul,961.1,776.89,184.21,726,Metro Cash & Carry
+P0304,Fortune Buns 304,Bakery,Buns,Fortune,41.11,34.77,6.34,131,Nature's Basket Supply
+P0305,Kwality Wall's Stationery 305,Other,Stationery,Kwality Wall's,844.35,695.62,148.73,224,Udaan Distribution
+P0306,Clinic Plus Baby Lotion 306,Baby Care,Baby Lotion,Clinic Plus,1050.12,916.85,133.27,503,South India FMCG Supply
+P0307,Dettol Frozen Snacks 307,Frozen Foods,Frozen Snacks,Dettol,122.14,98.43,23.71,502,Nature's Basket Supply
+P0308,Maggi Cooking Oil 308,Staples,Cooking Oil,Maggi,379.99,240.12,139.87,36,Maharashtra Food Supply
+P0309,Haldiram's Kitchen Items 309,Other,Kitchen Items,Haldiram's,1078.23,900.58,177.65,907,South India FMCG Supply
+P0310,Dabur Bananas 310,Fresh Fruits,Bananas,Dabur,286.09,198.31,87.78,125,FreshKart Distributors
+P0311,Patanjali Baby Wipes 311,Baby Care,Baby Wipes,Patanjali,313.44,217.32,96.12,243,National FMCG Distribution
+P0312,Nestle Tea 312,Beverages,Tea,Nestle,39.01,28.69,10.32,143,Udaan Distribution
+P0313,Patanjali Dry Fruits 313,Snacks,Dry Fruits,Patanjali,203.99,164.12,39.87,262,UrbanBasket Suppliers
+P0314,ITC Frozen Vegetables 314,Frozen Foods,Frozen Vegetables,ITC,310.29,227.28,83.01,784,GreenHarvest Suppliers
+P0315,Nestle Baby Food 315,Baby Care,Baby Food,Nestle,1265.07,946.9,318.17,693,Maharashtra Food Supply
+P0316,Nivea Kitchen Items 316,Other,Kitchen Items,Nivea,1190.94,806.5,384.44,928,DailyNeeds Distribution
+P0317,ITC Tea 317,Beverages,Tea,ITC,478.82,306.95,171.87,304,Hyderabad Wholesale Mart
+P0318,Thums Up Oranges 318,Fresh Fruits,Oranges,Thums Up,204.17,157.89,46.28,732,UrbanBasket Suppliers
+P0319,Haldiram's Milk 319,Dairy,Milk,Haldiram's,355.87,253.79,102.08,217,Western India Grocery Supply
+P0320,Lifebuoy Curd 320,Dairy,Curd,Lifebuoy,55.77,47.39,8.38,867,National FMCG Distribution
+P0321,Aashirvaad Wheat 321,Staples,Wheat,Aashirvaad,718.24,513.35,204.89,251,Udaan Distribution
+P0322,Nestle Frozen Snacks 322,Frozen Foods,Frozen Snacks,Nestle,747.68,521.33,226.35,395,DMart Supply Chain
+P0323,Kwality Wall's Baby Soap 323,Baby Care,Baby Soap,Kwality Wall's,1263.22,842.05,421.17,182,Metro Cash & Carry
+P0324,Amul Toilet Cleaner 324,Household Cleaning,Toilet Cleaner,Amul,412.06,309.35,102.71,720,Metro Cash & Carry
+P0325,ITC Shampoo 325,Personal Care,Shampoo,ITC,231.16,203.31,27.85,445,GreenHarvest Suppliers
+P0326,Lifebuoy Leafy Greens 326,Fresh Vegetables,Leafy Greens,Lifebuoy,247.53,204.33,43.2,552,National FMCG Distribution
+P0327,Saffola Utility 327,Other,Utility,Saffola,1120.5,726.41,394.09,959,UrbanBasket Suppliers
+P0328,Patanjali Ice Cream 328,Frozen Foods,Ice Cream,Patanjali,842.47,618.04,224.43,696,Metro Cash & Carry
+P0329,Patanjali Frozen Snacks 329,Frozen Foods,Frozen Snacks,Patanjali,238.36,158.68,79.68,475,FreshKart Distributors
+P0330,Colgate Namkeen 330,Snacks,Namkeen,Colgate,208.45,144.8,63.65,810,South India FMCG Supply
+P0331,Red Bull Bananas 331,Fresh Fruits,Bananas,Red Bull,212.74,159.57,53.17,969,Udaan Distribution
+P0332,Tata Root Vegetables 332,Fresh Vegetables,Root Vegetables,Tata,214.46,138.92,75.54,255,GreenHarvest Suppliers
+P0333,Tata Utility 333,Other,Utility,Tata,590.81,381.3,209.51,614,Hyderabad Wholesale Mart
+P0334,Britannia Pet Care 334,Other,Pet Care,Britannia,240.36,157.38,82.98,838,Hyderabad Wholesale Mart
+P0335,Britannia Curd 335,Dairy,Curd,Britannia,519.23,388.27,130.96,95,Hyderabad Wholesale Mart
+P0336,Daawat Cooking Oil 336,Staples,Cooking Oil,Daawat,541.71,406.0,135.71,285,DMart Supply Chain
+P0337,Daawat Namkeen 337,Snacks,Namkeen,Daawat,748.74,664.64,84.1,522,Metro Cash & Carry
+P0338,Lifebuoy Wheat 338,Staples,Wheat,Lifebuoy,972.56,734.26,238.3,659,National FMCG Distribution
+P0339,Kwality Wall's Detergent 339,Household Cleaning,Detergent,Kwality Wall's,655.82,575.52,80.3,798,National FMCG Distribution
+P0340,Surf Excel Soft Drinks 340,Beverages,Soft Drinks,Surf Excel,242.76,160.9,81.86,50,Western India Grocery Supply
+P0341,Mother Dairy Apples 341,Fresh Fruits,Apples,Mother Dairy,345.85,308.92,36.93,849,GreenHarvest Suppliers
+P0342,ITC Kitchen Items 342,Other,Kitchen Items,ITC,222.96,154.33,68.63,672,Nature's Basket Supply
+P0343,ITC Frozen Vegetables 343,Frozen Foods,Frozen Vegetables,ITC,255.19,161.57,93.62,120,National FMCG Distribution
+P0344,Real Surface Cleaner 344,Household Cleaning,Surface Cleaner,Real,800.22,552.49,247.73,639,Reliance Consumer Products
+P0345,Thums Up Bananas 345,Fresh Fruits,Bananas,Thums Up,214.36,186.01,28.35,956,Nature's Basket Supply
+P0346,Coca-Cola Cookies 346,Bakery,Cookies,Coca-Cola,161.05,120.33,40.72,171,Udaan Distribution
+P0347,India Gate Ready Meals 347,Frozen Foods,Ready Meals,India Gate,344.21,259.46,84.75,806,Maharashtra Food Supply
+P0348,Harpic Potatoes 348,Fresh Vegetables,Potatoes,Harpic,233.7,177.52,56.18,827,DailyNeeds Distribution
+P0349,Paper Boat Mangoes 349,Fresh Fruits,Mangoes,Paper Boat,58.58,45.59,12.99,46,Maharashtra Food Supply
+P0350,Britannia Grapes 350,Fresh Fruits,Grapes,Britannia,344.54,224.63,119.91,406,Reliance Consumer Products
+P0351,ITC Juice 351,Beverages,Juice,ITC,587.4,483.42,103.98,173,Nature's Basket Supply
+P0352,Fortune Skincare 352,Personal Care,Skincare,Fortune,321.17,275.63,45.54,295,DMart Supply Chain
+P0353,Kurkure Cakes 353,Bakery,Cakes,Kurkure,542.61,432.71,109.9,861,Nature's Basket Supply
+P0354,Paper Boat Paneer 354,Dairy,Paneer,Paper Boat,53.87,37.71,16.16,660,National FMCG Distribution
+P0355,London Dairy Detergent 355,Household Cleaning,Detergent,London Dairy,285.97,209.16,76.81,648,BigBasket Wholesale
+P0356,Head & Shoulders Buns 356,Bakery,Buns,Head & Shoulders,637.76,570.95,66.81,659,Nature's Basket Supply
+P0357,Harpic Baby Wipes 357,Baby Care,Baby Wipes,Harpic,190.96,157.54,33.42,68,Metro Cash & Carry
+P0358,Colgate Leafy Greens 358,Fresh Vegetables,Leafy Greens,Colgate,168.0,109.32,58.68,957,DailyNeeds Distribution
+P0359,Colgate Bread 359,Bakery,Bread,Colgate,597.3,376.66,220.64,679,Western India Grocery Supply
+P0360,Himalaya Paneer 360,Dairy,Paneer,Himalaya,531.86,441.59,90.27,218,Maharashtra Food Supply
+P0361,Saffola Soap 361,Personal Care,Soap,Saffola,123.79,102.13,21.66,178,Western India Grocery Supply
+P0362,Fortune Diapers 362,Baby Care,Diapers,Fortune,768.14,545.52,222.62,763,National FMCG Distribution
+P0363,Fortune Paneer 363,Dairy,Paneer,Fortune,411.61,286.25,125.36,437,Western India Grocery Supply
+P0364,Mother Dairy Chips 364,Snacks,Chips,Mother Dairy,793.91,546.36,247.55,153,BigBasket Wholesale
+P0365,Kwality Wall's Energy Drinks 365,Beverages,Energy Drinks,Kwality Wall's,110.15,69.5,40.65,277,BigBasket Wholesale
+P0366,Nestle Leafy Greens 366,Fresh Vegetables,Leafy Greens,Nestle,129.25,82.11,47.14,666,DailyNeeds Distribution
+P0367,Thums Up Soap 367,Personal Care,Soap,Thums Up,479.71,392.7,87.01,914,GreenHarvest Suppliers
+P0368,Red Bull Bananas 368,Fresh Fruits,Bananas,Red Bull,145.38,103.33,42.05,368,GreenHarvest Suppliers
+P0369,Coca-Cola Cakes 369,Bakery,Cakes,Coca-Cola,769.01,495.86,273.15,43,BigBasket Wholesale
+P0370,Himalaya Diapers 370,Baby Care,Diapers,Himalaya,609.29,413.23,196.06,903,FreshKart Distributors
+P0371,Fortune Dry Fruits 371,Snacks,Dry Fruits,Fortune,486.71,313.17,173.54,43,DailyNeeds Distribution
+P0372,Real Rice 372,Staples,Rice,Real,856.33,650.58,205.75,202,BigBasket Wholesale
+P0373,Aashirvaad Namkeen 373,Snacks,Namkeen,Aashirvaad,556.88,392.48,164.4,709,Maharashtra Food Supply
+P0374,Nestle Stationery 374,Other,Stationery,Nestle,833.59,736.8,96.79,893,Udaan Distribution
+P0375,Dove Chips 375,Snacks,Chips,Dove,210.2,132.11,78.09,863,UrbanBasket Suppliers
+P0376,Saffola Coffee 376,Beverages,Coffee,Saffola,482.08,314.62,167.46,145,Udaan Distribution
+P0377,Fortune Soap 377,Personal Care,Soap,Fortune,167.5,146.31,21.19,634,GreenHarvest Suppliers
+P0378,Dabur Surface Cleaner 378,Household Cleaning,Surface Cleaner,Dabur,885.88,766.59,119.29,69,National FMCG Distribution
+P0379,Dettol Frozen Snacks 379,Frozen Foods,Frozen Snacks,Dettol,164.11,116.51,47.6,524,South India FMCG Supply
+P0380,Red Bull Wheat 380,Staples,Wheat,Red Bull,518.38,433.78,84.6,923,Western India Grocery Supply
+P0381,Parle Shampoo 381,Personal Care,Shampoo,Parle,1105.85,805.81,300.04,537,DMart Supply Chain
+P0382,Paper Boat Floor Cleaner 382,Household Cleaning,Floor Cleaner,Paper Boat,494.01,375.35,118.66,436,DMart Supply Chain
+P0383,Amul Pastries 383,Bakery,Pastries,Amul,732.75,616.66,116.09,47,Reliance Consumer Products
+P0384,Haldiram's Grapes 384,Fresh Fruits,Grapes,Haldiram's,398.17,345.86,52.31,150,Nature's Basket Supply
+P0385,Amul Ready Meals 385,Frozen Foods,Ready Meals,Amul,713.32,575.31,138.01,672,BigBasket Wholesale
+P0386,Colgate Miscellaneous 386,Other,Miscellaneous,Colgate,361.87,226.49,135.38,142,National FMCG Distribution
+P0387,Amul Miscellaneous 387,Other,Miscellaneous,Amul,756.64,635.7,120.94,396,UrbanBasket Suppliers
+P0388,Aashirvaad Ice Cream 388,Frozen Foods,Ice Cream,Aashirvaad,133.31,108.36,24.95,92,UrbanBasket Suppliers
+P0389,Fortune Root Vegetables 389,Fresh Vegetables,Root Vegetables,Fortune,50.48,41.3,9.18,256,Udaan Distribution
+P0390,Himalaya Hair Care 390,Personal Care,Hair Care,Himalaya,1013.78,745.9,267.88,794,Nature's Basket Supply
+P0391,Surf Excel Soap 391,Personal Care,Soap,Surf Excel,881.4,560.88,320.52,641,DailyNeeds Distribution
+P0392,Fortune Ready Meals 392,Frozen Foods,Ready Meals,Fortune,300.93,247.66,53.27,365,DMart Supply Chain
+P0393,ITC Shampoo 393,Personal Care,Shampoo,ITC,1123.84,792.63,331.21,897,Udaan Distribution
+P0394,Aashirvaad Stationery 394,Other,Stationery,Aashirvaad,657.24,418.41,238.83,63,Hyderabad Wholesale Mart
+P0395,Maggi Tea 395,Beverages,Tea,Maggi,409.13,322.91,86.22,465,BigBasket Wholesale
+P0396,Saffola Kitchen Items 396,Other,Kitchen Items,Saffola,142.3,98.33,43.97,456,National FMCG Distribution
+P0397,Vim Apples 397,Fresh Fruits,Apples,Vim,495.52,373.78,121.74,228,DailyNeeds Distribution
+P0398,Red Bull Soft Drinks 398,Beverages,Soft Drinks,Red Bull,497.72,333.93,163.79,801,UrbanBasket Suppliers
+P0399,Fortune Oranges 399,Fresh Fruits,Oranges,Fortune,249.59,202.24,47.35,783,Western India Grocery Supply
+P0400,Harpic Rice 400,Staples,Rice,Harpic,366.98,238.06,128.92,384,GreenHarvest Suppliers
+P0401,Pears Oranges 401,Fresh Fruits,Oranges,Pears,124.37,92.01,32.36,517,Hyderabad Wholesale Mart
+P0402,Kwality Wall's Baby Lotion 402,Baby Care,Baby Lotion,Kwality Wall's,1045.56,676.82,368.74,656,GreenHarvest Suppliers
+P0403,Colgate Cooking Oil 403,Staples,Cooking Oil,Colgate,1137.01,1010.47,126.54,267,Udaan Distribution
+P0404,Amul Dry Fruits 404,Snacks,Dry Fruits,Amul,484.47,375.33,109.14,218,GreenHarvest Suppliers
+P0405,Dettol Juice 405,Beverages,Juice,Dettol,694.38,447.48,246.9,774,Maharashtra Food Supply
+P0406,London Dairy Cakes 406,Bakery,Cakes,London Dairy,201.09,144.66,56.43,649,Reliance Consumer Products
+P0407,Britannia Kitchen Items 407,Other,Kitchen Items,Britannia,810.42,626.92,183.5,730,DMart Supply Chain
+P0408,Britannia Grapes 408,Fresh Fruits,Grapes,Britannia,209.39,155.36,54.03,744,Hyderabad Wholesale Mart
+P0409,Coca-Cola Onions 409,Fresh Vegetables,Onions,Coca-Cola,70.9,63.5,7.4,483,South India FMCG Supply
+P0410,Surf Excel Dry Fruits 410,Snacks,Dry Fruits,Surf Excel,685.47,481.39,204.08,658,FreshKart Distributors
+P0411,Head & Shoulders Baby Lotion 411,Baby Care,Baby Lotion,Head & Shoulders,1469.88,965.0,504.88,692,South India FMCG Supply
+P0412,Clinic Plus Dry Fruits 412,Snacks,Dry Fruits,Clinic Plus,548.27,381.41,166.86,714,GreenHarvest Suppliers
+P0413,Saffola Detergent 413,Household Cleaning,Detergent,Saffola,196.47,133.72,62.75,613,Udaan Distribution
+P0414,Dettol Hair Care 414,Personal Care,Hair Care,Dettol,429.91,374.53,55.38,41,Metro Cash & Carry
+P0415,Fortune Cookies 415,Bakery,Cookies,Fortune,642.15,423.87,218.28,996,South India FMCG Supply
+P0416,Haldiram's Curd 416,Dairy,Curd,Haldiram's,508.34,342.63,165.71,248,Metro Cash & Carry
+P0417,Kwality Wall's Chips 417,Snacks,Chips,Kwality Wall's,516.25,325.77,190.48,76,FreshKart Distributors
+P0418,Mother Dairy Hair Care 418,Personal Care,Hair Care,Mother Dairy,593.92,468.34,125.58,140,Hyderabad Wholesale Mart
+P0419,Mother Dairy Toilet Cleaner 419,Household Cleaning,Toilet Cleaner,Mother Dairy,475.47,328.17,147.3,336,Western India Grocery Supply
+P0420,Saffola Cakes 420,Bakery,Cakes,Saffola,207.5,147.81,59.69,636,South India FMCG Supply
+P0421,Saffola Coffee 421,Beverages,Coffee,Saffola,536.09,398.25,137.84,37,Metro Cash & Carry
+P0422,Thums Up Biscuits 422,Snacks,Biscuits,Thums Up,800.81,694.31,106.5,165,FreshKart Distributors
+P0423,Head & Shoulders Utility 423,Other,Utility,Head & Shoulders,429.37,320.4,108.97,889,FreshKart Distributors
+P0424,Parachute Cheese 424,Dairy,Cheese,Parachute,234.47,166.61,67.86,464,GreenHarvest Suppliers
+P0425,ITC Baby Soap 425,Baby Care,Baby Soap,ITC,1027.06,759.6,267.46,372,GreenHarvest Suppliers
+P0426,Dove Shampoo 426,Personal Care,Shampoo,Dove,696.06,468.83,227.23,120,Reliance Consumer Products
+P0427,Vim Baby Food 427,Baby Care,Baby Food,Vim,989.03,731.86,257.17,965,GreenHarvest Suppliers
+P0428,Vim Onions 428,Fresh Vegetables,Onions,Vim,94.77,70.92,23.85,266,GreenHarvest Suppliers
+P0429,Pears Ice Cream 429,Frozen Foods,Ice Cream,Pears,655.96,582.91,73.05,50,Udaan Distribution
+P0430,Lifebuoy Cheese 430,Dairy,Cheese,Lifebuoy,33.71,22.3,11.41,464,Reliance Consumer Products
+P0431,Paper Boat Frozen Paneer 431,Frozen Foods,Frozen Paneer,Paper Boat,998.57,866.06,132.51,801,DMart Supply Chain
+P0432,Vim Hair Care 432,Personal Care,Hair Care,Vim,143.4,121.3,22.1,646,DMart Supply Chain
+P0433,Britannia Tea 433,Beverages,Tea,Britannia,318.9,282.01,36.89,683,DMart Supply Chain
+P0434,Coca-Cola Biscuits 434,Snacks,Biscuits,Coca-Cola,553.75,365.37,188.38,349,Western India Grocery Supply
+P0435,London Dairy Oranges 435,Fresh Fruits,Oranges,London Dairy,121.51,87.94,33.57,220,GreenHarvest Suppliers
+P0436,London Dairy Frozen Paneer 436,Frozen Foods,Frozen Paneer,London Dairy,212.16,147.58,64.58,245,Western India Grocery Supply
+P0437,PepsiCo Baby Soap 437,Baby Care,Baby Soap,PepsiCo,1620.64,1258.62,362.02,633,Reliance Consumer Products
+P0438,Surf Excel Chocolate 438,Snacks,Chocolate,Surf Excel,648.6,502.19,146.41,163,Reliance Consumer Products
+P0439,London Dairy Miscellaneous 439,Other,Miscellaneous,London Dairy,182.13,156.92,25.21,39,Western India Grocery Supply
+P0440,Nivea Bread 440,Bakery,Bread,Nivea,515.3,395.36,119.94,413,National FMCG Distribution
+P0441,Fortune Bananas 441,Fresh Fruits,Bananas,Fortune,468.94,413.28,55.66,816,National FMCG Distribution
+P0442,Red Bull Biscuits 442,Snacks,Biscuits,Red Bull,481.1,361.12,119.98,88,UrbanBasket Suppliers
+P0443,Vim Wheat 443,Staples,Wheat,Vim,386.56,246.46,140.1,997,Maharashtra Food Supply
+P0444,Surf Excel Juice 444,Beverages,Juice,Surf Excel,295.45,186.4,109.05,131,BigBasket Wholesale
+P0445,ITC Surface Cleaner 445,Household Cleaning,Surface Cleaner,ITC,70.0,46.35,23.65,940,Maharashtra Food Supply
+P0446,ITC Milk 446,Dairy,Milk,ITC,123.13,97.72,25.41,244,South India FMCG Supply
+P0447,Pears Soap 447,Personal Care,Soap,Pears,415.42,319.47,95.95,579,Western India Grocery Supply
+P0448,Paper Boat Ice Cream 448,Frozen Foods,Ice Cream,Paper Boat,255.16,197.67,57.49,932,DMart Supply Chain
+P0449,Coca-Cola Baby Wipes 449,Baby Care,Baby Wipes,Coca-Cola,535.11,474.23,60.88,192,Udaan Distribution
+P0450,Britannia Ice Cream 450,Frozen Foods,Ice Cream,Britannia,874.99,715.46,159.53,64,Metro Cash & Carry
+P0451,PepsiCo Leafy Greens 451,Fresh Vegetables,Leafy Greens,PepsiCo,298.58,248.95,49.63,229,Udaan Distribution
+P0452,Haldiram's Baby Soap 452,Baby Care,Baby Soap,Haldiram's,889.08,773.22,115.86,165,FreshKart Distributors
+P0453,Pears Toilet Cleaner 453,Household Cleaning,Toilet Cleaner,Pears,920.26,808.86,111.4,873,Metro Cash & Carry
+P0454,Nivea Milk 454,Dairy,Milk,Nivea,497.76,373.25,124.51,206,UrbanBasket Suppliers
+P0455,Colgate Potatoes 455,Fresh Vegetables,Potatoes,Colgate,280.56,219.52,61.04,606,Hyderabad Wholesale Mart
+P0456,Nivea Cookies 456,Bakery,Cookies,Nivea,595.73,434.99,160.74,259,GreenHarvest Suppliers
+P0457,India Gate Soap 457,Personal Care,Soap,India Gate,1058.14,701.06,357.08,201,BigBasket Wholesale
+P0458,London Dairy Cookies 458,Bakery,Cookies,London Dairy,297.24,219.87,77.37,480,Reliance Consumer Products
+P0459,Nivea Kitchen Items 459,Other,Kitchen Items,Nivea,852.3,637.1,215.2,671,GreenHarvest Suppliers
+P0460,Tata Skincare 460,Personal Care,Skincare,Tata,600.07,529.8,70.27,901,Maharashtra Food Supply
+P0461,Red Bull Dishwash 461,Household Cleaning,Dishwash,Red Bull,793.09,681.24,111.85,831,Hyderabad Wholesale Mart
+P0462,Amul Mangoes 462,Fresh Fruits,Mangoes,Amul,288.69,253.0,35.69,880,FreshKart Distributors
+P0463,Lifebuoy Curd 463,Dairy,Curd,Lifebuoy,229.1,162.96,66.14,108,Western India Grocery Supply
+P0464,Amul Toothpaste 464,Personal Care,Toothpaste,Amul,435.31,271.25,164.06,979,GreenHarvest Suppliers
+P0465,Red Bull Onions 465,Fresh Vegetables,Onions,Red Bull,62.1,54.62,7.48,686,South India FMCG Supply
+P0466,Fortune Milk 466,Dairy,Milk,Fortune,216.61,170.81,45.8,487,Metro Cash & Carry
+P0467,Daawat Frozen Vegetables 467,Frozen Foods,Frozen Vegetables,Daawat,571.52,405.25,166.27,260,South India FMCG Supply
+P0468,Clinic Plus Hair Care 468,Personal Care,Hair Care,Clinic Plus,382.12,285.41,96.71,36,Hyderabad Wholesale Mart
+P0469,Nestle Curd 469,Dairy,Curd,Nestle,218.6,194.66,23.94,639,DailyNeeds Distribution
+P0470,India Gate Pet Care 470,Other,Pet Care,India Gate,1170.76,857.58,313.18,728,FreshKart Distributors
+P0471,Coca-Cola Dry Fruits 471,Snacks,Dry Fruits,Coca-Cola,134.39,87.74,46.65,365,Western India Grocery Supply
+P0472,Pears Utility 472,Other,Utility,Pears,766.53,550.95,215.58,310,Hyderabad Wholesale Mart
+P0473,India Gate Soft Drinks 473,Beverages,Soft Drinks,India Gate,382.57,257.52,125.05,954,Hyderabad Wholesale Mart
+P0474,ITC Oranges 474,Fresh Fruits,Oranges,ITC,464.88,387.77,77.11,577,Nature's Basket Supply
+P0475,Paper Boat Skincare 475,Personal Care,Skincare,Paper Boat,275.39,188.55,86.84,692,Maharashtra Food Supply
+P0476,Head & Shoulders Milk 476,Dairy,Milk,Head & Shoulders,186.69,127.23,59.46,648,Maharashtra Food Supply
+P0477,Nivea Leafy Greens 477,Fresh Vegetables,Leafy Greens,Nivea,169.02,133.92,35.1,173,South India FMCG Supply
+P0478,Kwality Wall's Ready Meals 478,Frozen Foods,Ready Meals,Kwality Wall's,537.45,356.47,180.98,877,Hyderabad Wholesale Mart
+P0479,Saffola Butter 479,Dairy,Butter,Saffola,141.81,88.15,53.66,59,South India FMCG Supply
+P0480,Kurkure Baby Wipes 480,Baby Care,Baby Wipes,Kurkure,981.95,774.16,207.79,210,Western India Grocery Supply
+P0481,Real Baby Food 481,Baby Care,Baby Food,Real,1276.26,833.08,443.18,699,Reliance Consumer Products
+P0482,Paper Boat Soft Drinks 482,Beverages,Soft Drinks,Paper Boat,507.05,359.01,148.04,602,National FMCG Distribution
+P0483,Tata Apples 483,Fresh Fruits,Apples,Tata,168.61,126.17,42.44,817,Metro Cash & Carry
+P0484,Real Stationery 484,Other,Stationery,Real,323.91,206.79,117.12,422,Udaan Distribution
+P0485,Red Bull Surface Cleaner 485,Household Cleaning,Surface Cleaner,Red Bull,191.93,128.32,63.61,646,BigBasket Wholesale
+P0486,Dettol Chips 486,Snacks,Chips,Dettol,857.44,607.59,249.85,777,Western India Grocery Supply
+P0487,Red Bull Ice Cream 487,Frozen Foods,Ice Cream,Red Bull,877.06,576.61,300.45,219,DailyNeeds Distribution
+P0488,Haldiram's Pastries 488,Bakery,Pastries,Haldiram's,347.72,287.56,60.16,720,Nature's Basket Supply
+P0489,Harpic Baby Soap 489,Baby Care,Baby Soap,Harpic,1389.78,969.68,420.1,974,Hyderabad Wholesale Mart
+P0490,Maggi Dishwash 490,Household Cleaning,Dishwash,Maggi,217.62,160.79,56.83,433,FreshKart Distributors
+P0491,Lifebuoy Frozen Snacks 491,Frozen Foods,Frozen Snacks,Lifebuoy,567.36,386.45,180.91,398,Nature's Basket Supply
+P0492,Pears Potatoes 492,Fresh Vegetables,Potatoes,Pears,176.78,139.74,37.04,394,DMart Supply Chain
+P0493,Saffola Oranges 493,Fresh Fruits,Oranges,Saffola,479.88,304.3,175.58,592,Udaan Distribution
+P0494,Head & Shoulders Tea 494,Beverages,Tea,Head & Shoulders,612.11,418.41,193.7,314,Nature's Basket Supply
+P0495,Amul Chips 495,Snacks,Chips,Amul,289.83,210.27,79.56,918,BigBasket Wholesale
+P0496,Fortune Baby Wipes 496,Baby Care,Baby Wipes,Fortune,1673.27,1452.91,220.36,512,DMart Supply Chain
+P0497,Surf Excel Frozen Paneer 497,Frozen Foods,Frozen Paneer,Surf Excel,263.22,175.5,87.72,361,Reliance Consumer Products
+P0498,PepsiCo Frozen Snacks 498,Frozen Foods,Frozen Snacks,PepsiCo,114.68,76.29,38.39,235,GreenHarvest Suppliers
+P0499,ITC Toothpaste 499,Personal Care,Toothpaste,ITC,387.7,337.26,50.44,867,Nature's Basket Supply
+P0500,Haldiram's Coffee 500,Beverages,Coffee,Haldiram's,591.28,471.54,119.74,927,BigBasket Wholesale
+P0501,Himalaya Pulses 501,Staples,Pulses,Himalaya,1276.52,961.39,315.13,263,National FMCG Distribution
+P0502,Kurkure Skincare 502,Personal Care,Skincare,Kurkure,68.47,49.72,18.75,995,Reliance Consumer Products
+P0503,Coca-Cola Milk 503,Dairy,Milk,Coca-Cola,481.7,428.78,52.92,382,GreenHarvest Suppliers
+P0504,Paper Boat Cheese 504,Dairy,Cheese,Paper Boat,331.65,205.85,125.8,732,South India FMCG Supply
+P0505,Himalaya Ready Meals 505,Frozen Foods,Ready Meals,Himalaya,135.33,94.04,41.29,154,Hyderabad Wholesale Mart
+P0506,PepsiCo Detergent 506,Household Cleaning,Detergent,PepsiCo,181.99,120.75,61.24,559,Nature's Basket Supply
+P0507,Red Bull Cookies 507,Bakery,Cookies,Red Bull,716.54,457.26,259.28,590,Metro Cash & Carry
+P0508,Britannia Skincare 508,Personal Care,Skincare,Britannia,1043.64,768.75,274.89,445,Nature's Basket Supply
+P0509,Patanjali Surface Cleaner 509,Household Cleaning,Surface Cleaner,Patanjali,340.73,290.67,50.06,524,Udaan Distribution
+P0510,Pears Stationery 510,Other,Stationery,Pears,1180.29,767.08,413.21,306,Nature's Basket Supply
+P0511,Parachute Cookies 511,Bakery,Cookies,Parachute,773.05,523.32,249.73,344,FreshKart Distributors
+P0512,Coca-Cola Utility 512,Other,Utility,Coca-Cola,617.38,503.0,114.38,649,Metro Cash & Carry
+P0513,Kwality Wall's Tomatoes 513,Fresh Vegetables,Tomatoes,Kwality Wall's,27.11,17.32,9.79,26,Nature's Basket Supply
+P0514,Fortune Apples 514,Fresh Fruits,Apples,Fortune,181.15,130.62,50.53,620,GreenHarvest Suppliers
+P0515,Parle Baby Food 515,Baby Care,Baby Food,Parle,305.54,199.93,105.61,924,BigBasket Wholesale
+P0516,Kurkure Onions 516,Fresh Vegetables,Onions,Kurkure,78.34,63.4,14.94,512,DMart Supply Chain
+P0517,Dove Grapes 517,Fresh Fruits,Grapes,Dove,331.18,246.55,84.63,206,Western India Grocery Supply
+P0518,Coca-Cola Diapers 518,Baby Care,Diapers,Coca-Cola,569.1,429.36,139.74,651,Udaan Distribution
+P0519,Parachute Skincare 519,Personal Care,Skincare,Parachute,1194.37,910.85,283.52,531,South India FMCG Supply
+P0520,Kwality Wall's Pet Care 520,Other,Pet Care,Kwality Wall's,1081.68,734.6,347.08,756,Maharashtra Food Supply
+P0521,Fortune Chocolate 521,Snacks,Chocolate,Fortune,25.6,20.41,5.19,547,National FMCG Distribution
+P0522,Real Pet Care 522,Other,Pet Care,Real,274.71,173.5,101.21,558,Udaan Distribution
+P0523,India Gate Wheat 523,Staples,Wheat,India Gate,1233.72,855.74,377.98,214,GreenHarvest Suppliers
+P0524,Vim Potatoes 524,Fresh Vegetables,Potatoes,Vim,60.1,39.93,20.17,27,South India FMCG Supply
+P0525,Head & Shoulders Baby Soap 525,Baby Care,Baby Soap,Head & Shoulders,181.45,125.8,55.65,926,DMart Supply Chain
+P0526,Dettol Root Vegetables 526,Fresh Vegetables,Root Vegetables,Dettol,93.47,79.93,13.54,754,FreshKart Distributors
+P0527,Thums Up Buns 527,Bakery,Buns,Thums Up,444.71,304.74,139.97,433,Reliance Consumer Products
+P0528,Dabur Bread 528,Bakery,Bread,Dabur,638.06,413.49,224.57,511,Metro Cash & Carry
+P0529,Colgate Floor Cleaner 529,Household Cleaning,Floor Cleaner,Colgate,974.9,723.99,250.91,292,National FMCG Distribution
+P0530,Paper Boat Dishwash 530,Household Cleaning,Dishwash,Paper Boat,870.97,554.11,316.86,353,Metro Cash & Carry
+P0531,ITC Paneer 531,Dairy,Paneer,ITC,495.5,327.34,168.16,779,Hyderabad Wholesale Mart
+P0532,Daawat Toilet Cleaner 532,Household Cleaning,Toilet Cleaner,Daawat,745.78,589.24,156.54,582,BigBasket Wholesale
+P0533,Tata Cheese 533,Dairy,Cheese,Tata,297.2,262.21,34.99,723,Western India Grocery Supply
+P0534,Patanjali Wheat 534,Staples,Wheat,Patanjali,1089.93,914.63,175.3,598,GreenHarvest Suppliers
+P0535,Harpic Baby Wipes 535,Baby Care,Baby Wipes,Harpic,1672.87,1352.97,319.9,196,DailyNeeds Distribution
+P0536,Fortune Paneer 536,Dairy,Paneer,Fortune,380.44,263.46,116.98,922,UrbanBasket Suppliers
+P0537,Kwality Wall's Milk 537,Dairy,Milk,Kwality Wall's,216.36,143.0,73.36,97,GreenHarvest Suppliers
+P0538,Dettol Baby Soap 538,Baby Care,Baby Soap,Dettol,1027.13,856.41,170.72,190,Hyderabad Wholesale Mart
+P0539,Dettol Juice 539,Beverages,Juice,Dettol,474.76,308.37,166.39,228,GreenHarvest Suppliers
+P0540,Lay's Energy Drinks 540,Beverages,Energy Drinks,Lay's,351.76,268.41,83.35,680,Udaan Distribution
+P0541,Lifebuoy Toilet Cleaner 541,Household Cleaning,Toilet Cleaner,Lifebuoy,819.75,671.25,148.5,984,Metro Cash & Carry
+P0542,Maggi Grapes 542,Fresh Fruits,Grapes,Maggi,438.1,323.44,114.66,995,Udaan Distribution
+P0543,Tata Surface Cleaner 543,Household Cleaning,Surface Cleaner,Tata,899.68,657.66,242.02,888,Metro Cash & Carry
+P0544,Amul Frozen Paneer 544,Frozen Foods,Frozen Paneer,Amul,605.36,470.22,135.14,185,Metro Cash & Carry
+P0545,Dettol Mangoes 545,Fresh Fruits,Mangoes,Dettol,454.49,349.42,105.07,559,Western India Grocery Supply
+P0546,Dove Detergent 546,Household Cleaning,Detergent,Dove,725.44,486.84,238.6,161,Maharashtra Food Supply
+P0547,Saffola Ready Meals 547,Frozen Foods,Ready Meals,Saffola,200.21,178.61,21.6,711,BigBasket Wholesale
+P0548,Real Potatoes 548,Fresh Vegetables,Potatoes,Real,224.18,156.18,68.0,75,FreshKart Distributors
+P0549,Harpic Cakes 549,Bakery,Cakes,Harpic,711.36,587.38,123.98,587,Reliance Consumer Products
+P0550,Dabur Surface Cleaner 550,Household Cleaning,Surface Cleaner,Dabur,533.25,350.98,182.27,468,Hyderabad Wholesale Mart
+P0551,Real Coffee 551,Beverages,Coffee,Real,426.04,361.41,64.63,672,Western India Grocery Supply
+P0552,Britannia Buns 552,Bakery,Buns,Britannia,676.77,466.86,209.91,853,GreenHarvest Suppliers
+P0553,Mother Dairy Bananas 553,Fresh Fruits,Bananas,Mother Dairy,489.88,408.48,81.4,417,Udaan Distribution
+P0554,Fortune Diapers 554,Baby Care,Diapers,Fortune,1446.11,1171.63,274.48,491,DailyNeeds Distribution
+P0555,Surf Excel Onions 555,Fresh Vegetables,Onions,Surf Excel,264.16,195.55,68.61,970,BigBasket Wholesale
+P0556,Fortune Tomatoes 556,Fresh Vegetables,Tomatoes,Fortune,181.61,123.83,57.78,767,Western India Grocery Supply
+P0557,Mother Dairy Ice Cream 557,Frozen Foods,Ice Cream,Mother Dairy,358.57,274.73,83.84,689,DMart Supply Chain
+P0558,Vim Utility 558,Other,Utility,Vim,746.13,630.5,115.63,25,Reliance Consumer Products
+P0559,Himalaya Frozen Paneer 559,Frozen Foods,Frozen Paneer,Himalaya,273.58,200.76,72.82,115,DMart Supply Chain
+P0560,Fortune Frozen Vegetables 560,Frozen Foods,Frozen Vegetables,Fortune,124.54,106.82,17.72,175,FreshKart Distributors
+P0561,Surf Excel Potatoes 561,Fresh Vegetables,Potatoes,Surf Excel,262.68,168.45,94.23,491,DMart Supply Chain
+P0562,Aashirvaad Skincare 562,Personal Care,Skincare,Aashirvaad,182.44,124.79,57.65,709,Reliance Consumer Products
+P0563,Tata Tomatoes 563,Fresh Vegetables,Tomatoes,Tata,132.75,114.66,18.09,205,FreshKart Distributors
+P0564,Head & Shoulders Apples 564,Fresh Fruits,Apples,Head & Shoulders,54.68,47.13,7.55,371,National FMCG Distribution
+P0565,Patanjali Baby Wipes 565,Baby Care,Baby Wipes,Patanjali,507.72,325.38,182.34,784,UrbanBasket Suppliers
+P0566,Nestle Pet Care 566,Other,Pet Care,Nestle,699.1,544.73,154.37,365,Udaan Distribution
+P0567,Amul Cooking Oil 567,Staples,Cooking Oil,Amul,309.31,222.03,87.28,701,Western India Grocery Supply
+P0568,Haldiram's Dry Fruits 568,Snacks,Dry Fruits,Haldiram's,692.64,568.68,123.96,122,Metro Cash & Carry
+P0569,Mother Dairy Onions 569,Fresh Vegetables,Onions,Mother Dairy,176.35,139.22,37.13,557,GreenHarvest Suppliers
+P0570,Amul Butter 570,Dairy,Butter,Amul,409.01,255.65,153.36,173,South India FMCG Supply
+P0571,Paper Boat Ice Cream 571,Frozen Foods,Ice Cream,Paper Boat,95.75,64.1,31.65,218,Metro Cash & Carry
+P0572,Thums Up Stationery 572,Other,Stationery,Thums Up,475.18,322.42,152.76,849,National FMCG Distribution
+P0573,Dove Kitchen Items 573,Other,Kitchen Items,Dove,810.33,594.02,216.31,151,National FMCG Distribution
+P0574,Nivea Utility 574,Other,Utility,Nivea,49.99,43.63,6.36,484,DailyNeeds Distribution
+P0575,PepsiCo Potatoes 575,Fresh Vegetables,Potatoes,PepsiCo,138.68,110.87,27.81,354,BigBasket Wholesale
+P0576,Paper Boat Cookies 576,Bakery,Cookies,Paper Boat,619.55,534.99,84.56,886,Udaan Distribution
+P0577,Parle Mangoes 577,Fresh Fruits,Mangoes,Parle,381.62,326.77,54.85,164,UrbanBasket Suppliers
+P0578,Kwality Wall's Detergent 578,Household Cleaning,Detergent,Kwality Wall's,400.11,341.96,58.15,256,DMart Supply Chain
+P0579,PepsiCo Buns 579,Bakery,Buns,PepsiCo,166.43,120.92,45.51,473,Reliance Consumer Products
+P0580,Kwality Wall's Kitchen Items 580,Other,Kitchen Items,Kwality Wall's,1038.5,928.14,110.36,253,FreshKart Distributors
+P0581,Coca-Cola Curd 581,Dairy,Curd,Coca-Cola,400.55,259.43,141.12,370,Hyderabad Wholesale Mart
+P0582,Surf Excel Juice 582,Beverages,Juice,Surf Excel,706.51,510.89,195.62,27,DailyNeeds Distribution
+P0583,Nestle Flour 583,Staples,Flour,Nestle,135.04,120.9,14.14,391,BigBasket Wholesale
+P0584,Fortune Skincare 584,Personal Care,Skincare,Fortune,933.67,722.28,211.39,453,UrbanBasket Suppliers
+P0585,Parle Dry Fruits 585,Snacks,Dry Fruits,Parle,409.67,291.04,118.63,376,Nature's Basket Supply
+P0586,Kwality Wall's Juice 586,Beverages,Juice,Kwality Wall's,162.81,135.31,27.5,511,DailyNeeds Distribution
+P0587,Colgate Potatoes 587,Fresh Vegetables,Potatoes,Colgate,141.57,123.03,18.54,588,Maharashtra Food Supply
+P0588,Pears Apples 588,Fresh Fruits,Apples,Pears,57.82,51.61,6.21,953,DMart Supply Chain
+P0589,Daawat Miscellaneous 589,Other,Miscellaneous,Daawat,147.44,116.24,31.2,801,BigBasket Wholesale
+P0590,Surf Excel Leafy Greens 590,Fresh Vegetables,Leafy Greens,Surf Excel,164.56,123.02,41.54,549,FreshKart Distributors
+P0591,Patanjali Onions 591,Fresh Vegetables,Onions,Patanjali,61.48,54.81,6.67,757,DMart Supply Chain
+P0592,Britannia Onions 592,Fresh Vegetables,Onions,Britannia,43.64,33.06,10.58,438,Maharashtra Food Supply
+P0593,Dettol Detergent 593,Household Cleaning,Detergent,Dettol,494.23,413.09,81.14,101,Reliance Consumer Products
+P0594,Real Mangoes 594,Fresh Fruits,Mangoes,Real,478.79,364.95,113.84,224,Hyderabad Wholesale Mart
+P0595,Tata Soap 595,Personal Care,Soap,Tata,276.04,247.09,28.95,465,National FMCG Distribution
+P0596,India Gate Butter 596,Dairy,Butter,India Gate,331.03,264.99,66.04,456,DailyNeeds Distribution
+P0597,Clinic Plus Miscellaneous 597,Other,Miscellaneous,Clinic Plus,610.52,514.5,96.02,594,Udaan Distribution
+P0598,Vim Mangoes 598,Fresh Fruits,Mangoes,Vim,409.68,279.58,130.1,641,Western India Grocery Supply
+P0599,Patanjali Soap 599,Personal Care,Soap,Patanjali,342.35,266.18,76.17,423,UrbanBasket Suppliers
+P0600,ITC Soap 600,Personal Care,Soap,ITC,722.92,544.44,178.48,870,Nature's Basket Supply
+P0601,Mother Dairy Cheese 601,Dairy,Cheese,Mother Dairy,62.82,51.86,10.96,444,Reliance Consumer Products
+P0602,Lay's Shampoo 602,Personal Care,Shampoo,Lay's,770.86,688.39,82.47,89,Nature's Basket Supply
+P0603,Patanjali Tomatoes 603,Fresh Vegetables,Tomatoes,Patanjali,155.98,119.97,36.01,955,South India FMCG Supply
+P0604,Mother Dairy Biscuits 604,Snacks,Biscuits,Mother Dairy,596.49,439.04,157.45,576,National FMCG Distribution
+P0605,Fortune Bread 605,Bakery,Bread,Fortune,571.95,401.45,170.5,733,GreenHarvest Suppliers
+P0606,Amul Dry Fruits 606,Snacks,Dry Fruits,Amul,239.38,148.58,90.8,87,Nature's Basket Supply
+P0607,Nestle Coffee 607,Beverages,Coffee,Nestle,500.13,379.84,120.29,847,Udaan Distribution
+P0608,Clinic Plus Ice Cream 608,Frozen Foods,Ice Cream,Clinic Plus,537.15,346.18,190.97,822,DailyNeeds Distribution
+P0609,Nivea Ready Meals 609,Frozen Foods,Ready Meals,Nivea,285.79,252.0,33.79,494,Western India Grocery Supply
+P0610,Tata Frozen Paneer 610,Frozen Foods,Frozen Paneer,Tata,461.41,337.37,124.04,787,DailyNeeds Distribution
+P0611,London Dairy Biscuits 611,Snacks,Biscuits,London Dairy,356.16,310.61,45.55,241,UrbanBasket Suppliers
+P0612,Britannia Floor Cleaner 612,Household Cleaning,Floor Cleaner,Britannia,511.1,421.9,89.2,258,Maharashtra Food Supply
+P0613,Kwality Wall's Butter 613,Dairy,Butter,Kwality Wall's,150.23,106.23,44.0,547,Metro Cash & Carry
+P0614,Clinic Plus Baby Wipes 614,Baby Care,Baby Wipes,Clinic Plus,1082.53,697.85,384.68,645,Udaan Distribution
+P0615,Parle Detergent 615,Household Cleaning,Detergent,Parle,833.19,688.26,144.93,924,National FMCG Distribution
+P0616,Mother Dairy Soap 616,Personal Care,Soap,Mother Dairy,587.36,443.83,143.53,859,BigBasket Wholesale
+P0617,Haldiram's Cakes 617,Bakery,Cakes,Haldiram's,352.16,234.01,118.15,696,DMart Supply Chain
+P0618,Colgate Diapers 618,Baby Care,Diapers,Colgate,1541.35,997.96,543.39,578,DMart Supply Chain
+P0619,Real Potatoes 619,Fresh Vegetables,Potatoes,Real,216.51,157.56,58.95,545,Western India Grocery Supply
+P0620,Parachute Ready Meals 620,Frozen Foods,Ready Meals,Parachute,908.77,589.53,319.24,105,Maharashtra Food Supply
+P0621,India Gate Detergent 621,Household Cleaning,Detergent,India Gate,648.4,408.44,239.96,970,Hyderabad Wholesale Mart
+P0622,Mother Dairy Baby Wipes 622,Baby Care,Baby Wipes,Mother Dairy,1491.0,1312.42,178.58,579,DailyNeeds Distribution
+P0623,Lay's Toothpaste 623,Personal Care,Toothpaste,Lay's,208.98,143.74,65.24,482,Hyderabad Wholesale Mart
+P0624,Pears Energy Drinks 624,Beverages,Energy Drinks,Pears,743.87,550.53,193.34,470,National FMCG Distribution
+P0625,Patanjali Cookies 625,Bakery,Cookies,Patanjali,48.77,41.54,7.23,851,UrbanBasket Suppliers
+P0626,India Gate Mangoes 626,Fresh Fruits,Mangoes,India Gate,232.64,188.52,44.12,702,Reliance Consumer Products
+P0627,Vim Potatoes 627,Fresh Vegetables,Potatoes,Vim,177.76,145.07,32.69,432,FreshKart Distributors
+P0628,Surf Excel Tomatoes 628,Fresh Vegetables,Tomatoes,Surf Excel,269.48,191.65,77.83,624,Hyderabad Wholesale Mart
+P0629,Clinic Plus Chips 629,Snacks,Chips,Clinic Plus,392.66,254.02,138.64,174,Western India Grocery Supply
+P0630,Parachute Toilet Cleaner 630,Household Cleaning,Toilet Cleaner,Parachute,934.4,716.13,218.27,670,Western India Grocery Supply
+P0631,Nestle Mangoes 631,Fresh Fruits,Mangoes,Nestle,203.13,142.24,60.89,284,South India FMCG Supply
+P0632,Kwality Wall's Root Vegetables 632,Fresh Vegetables,Root Vegetables,Kwality Wall's,119.29,105.89,13.4,941,DMart Supply Chain
+P0633,Harpic Cakes 633,Bakery,Cakes,Harpic,255.93,166.29,89.64,727,Maharashtra Food Supply
+P0634,Lifebuoy Pastries 634,Bakery,Pastries,Lifebuoy,589.38,472.02,117.36,817,Nature's Basket Supply
+P0635,Red Bull Surface Cleaner 635,Household Cleaning,Surface Cleaner,Red Bull,335.28,297.51,37.77,639,Metro Cash & Carry
+P0636,Head & Shoulders Toothpaste 636,Personal Care,Toothpaste,Head & Shoulders,491.29,407.96,83.33,291,FreshKart Distributors
+P0637,Mother Dairy Frozen Paneer 637,Frozen Foods,Frozen Paneer,Mother Dairy,496.81,403.67,93.14,86,Udaan Distribution
+P0638,Fortune Detergent 638,Household Cleaning,Detergent,Fortune,377.74,299.15,78.59,183,Hyderabad Wholesale Mart
+P0639,Dettol Energy Drinks 639,Beverages,Energy Drinks,Dettol,515.34,424.09,91.25,579,DailyNeeds Distribution
+P0640,Pears Milk 640,Dairy,Milk,Pears,577.29,393.7,183.59,292,South India FMCG Supply
+P0641,India Gate Buns 641,Bakery,Buns,India Gate,421.37,306.78,114.59,921,National FMCG Distribution
+P0642,Colgate Soap 642,Personal Care,Soap,Colgate,601.45,374.48,226.97,790,FreshKart Distributors
+P0643,Clinic Plus Buns 643,Bakery,Buns,Clinic Plus,91.79,82.04,9.75,873,South India FMCG Supply
+P0644,Lay's Tomatoes 644,Fresh Vegetables,Tomatoes,Lay's,80.05,53.45,26.6,620,DMart Supply Chain
+P0645,Thums Up Pet Care 645,Other,Pet Care,Thums Up,913.92,669.07,244.85,854,Western India Grocery Supply
+P0646,London Dairy Curd 646,Dairy,Curd,London Dairy,162.61,124.72,37.89,437,DMart Supply Chain
+P0647,Harpic Mangoes 647,Fresh Fruits,Mangoes,Harpic,60.14,49.84,10.3,589,BigBasket Wholesale
+P0648,Red Bull Bread 648,Bakery,Bread,Red Bull,632.62,445.31,187.31,951,Nature's Basket Supply
+P0649,PepsiCo Butter 649,Dairy,Butter,PepsiCo,202.19,173.78,28.41,147,GreenHarvest Suppliers
+P0650,Kwality Wall's Frozen Vegetables 650,Frozen Foods,Frozen Vegetables,Kwality Wall's,678.26,444.63,233.63,733,Nature's Basket Supply
+P0651,Mother Dairy Namkeen 651,Snacks,Namkeen,Mother Dairy,519.15,408.79,110.36,84,GreenHarvest Suppliers
+P0652,Parle Toilet Cleaner 652,Household Cleaning,Toilet Cleaner,Parle,544.84,383.54,161.3,628,GreenHarvest Suppliers
+P0653,India Gate Pastries 653,Bakery,Pastries,India Gate,71.79,53.74,18.05,949,Western India Grocery Supply
+P0654,Red Bull Kitchen Items 654,Other,Kitchen Items,Red Bull,1004.99,863.56,141.43,298,Maharashtra Food Supply
+P0655,PepsiCo Leafy Greens 655,Fresh Vegetables,Leafy Greens,PepsiCo,164.75,102.36,62.39,826,FreshKart Distributors
+P0656,Head & Shoulders Flour 656,Staples,Flour,Head & Shoulders,1382.72,1001.86,380.86,989,Metro Cash & Carry
+P0657,Kwality Wall's Dry Fruits 657,Snacks,Dry Fruits,Kwality Wall's,603.59,438.89,164.7,957,South India FMCG Supply
+P0658,Red Bull Cooking Oil 658,Staples,Cooking Oil,Red Bull,946.89,735.45,211.44,972,National FMCG Distribution
+P0659,Fortune Buns 659,Bakery,Buns,Fortune,563.4,370.33,193.07,355,Udaan Distribution
+P0660,Colgate Energy Drinks 660,Beverages,Energy Drinks,Colgate,648.76,574.93,73.83,147,Nature's Basket Supply
+P0661,Clinic Plus Frozen Snacks 661,Frozen Foods,Frozen Snacks,Clinic Plus,246.13,163.3,82.83,819,Western India Grocery Supply
+P0662,Dettol Floor Cleaner 662,Household Cleaning,Floor Cleaner,Dettol,933.02,607.43,325.59,65,National FMCG Distribution
+P0663,Parle Tea 663,Beverages,Tea,Parle,90.53,64.17,26.36,83,Maharashtra Food Supply
+P0664,India Gate Cooking Oil 664,Staples,Cooking Oil,India Gate,1168.37,787.36,381.01,232,GreenHarvest Suppliers
+P0665,Dettol Toothpaste 665,Personal Care,Toothpaste,Dettol,1172.24,842.45,329.79,122,FreshKart Distributors
+P0666,Colgate Pastries 666,Bakery,Pastries,Colgate,323.02,285.67,37.35,517,Nature's Basket Supply
+P0667,Mother Dairy Apples 667,Fresh Fruits,Apples,Mother Dairy,341.79,252.83,88.96,846,South India FMCG Supply
+P0668,Saffola Butter 668,Dairy,Butter,Saffola,172.62,153.09,19.53,962,South India FMCG Supply
+P0669,PepsiCo Skincare 669,Personal Care,Skincare,PepsiCo,1088.48,717.05,371.43,648,GreenHarvest Suppliers
+P0670,Nivea Skincare 670,Personal Care,Skincare,Nivea,107.5,73.0,34.5,288,FreshKart Distributors
+P0671,Lay's Milk 671,Dairy,Milk,Lay's,271.45,216.62,54.83,794,Nature's Basket Supply
+P0672,India Gate Floor Cleaner 672,Household Cleaning,Floor Cleaner,India Gate,87.43,67.66,19.77,995,UrbanBasket Suppliers
+P0673,Lifebuoy Namkeen 673,Snacks,Namkeen,Lifebuoy,707.51,477.23,230.28,49,BigBasket Wholesale
+P0674,Dettol Soap 674,Personal Care,Soap,Dettol,949.57,785.99,163.58,434,DailyNeeds Distribution
+P0675,Harpic Soap 675,Personal Care,Soap,Harpic,531.54,374.12,157.42,75,GreenHarvest Suppliers
+P0676,Maggi Leafy Greens 676,Fresh Vegetables,Leafy Greens,Maggi,190.31,159.08,31.23,74,South India FMCG Supply
+P0677,Surf Excel Oranges 677,Fresh Fruits,Oranges,Surf Excel,125.9,107.14,18.76,321,DailyNeeds Distribution
+P0678,Kwality Wall's Cheese 678,Dairy,Cheese,Kwality Wall's,302.67,216.75,85.92,338,UrbanBasket Suppliers
+P0679,Kurkure Soap 679,Personal Care,Soap,Kurkure,127.43,113.7,13.73,100,South India FMCG Supply
+P0680,Haldiram's Butter 680,Dairy,Butter,Haldiram's,242.33,152.12,90.21,535,DMart Supply Chain
+P0681,Saffola Dry Fruits 681,Snacks,Dry Fruits,Saffola,361.66,319.42,42.24,798,Western India Grocery Supply
+P0682,Haldiram's Bread 682,Bakery,Bread,Haldiram's,487.5,304.71,182.79,512,Maharashtra Food Supply
+P0683,Daawat Miscellaneous 683,Other,Miscellaneous,Daawat,259.18,227.52,31.66,611,Metro Cash & Carry
+P0684,Patanjali Ice Cream 684,Frozen Foods,Ice Cream,Patanjali,802.75,719.41,83.34,841,UrbanBasket Suppliers
+P0685,Aashirvaad Chocolate 685,Snacks,Chocolate,Aashirvaad,379.52,313.61,65.91,188,National FMCG Distribution
+P0686,Parle Baby Lotion 686,Baby Care,Baby Lotion,Parle,1336.37,858.66,477.71,74,Metro Cash & Carry
+P0687,Colgate Cooking Oil 687,Staples,Cooking Oil,Colgate,1116.35,728.24,388.11,370,BigBasket Wholesale
+P0688,Thums Up Pulses 688,Staples,Pulses,Thums Up,903.68,715.68,188.0,790,National FMCG Distribution
+P0689,Dabur Bread 689,Bakery,Bread,Dabur,306.27,205.41,100.86,192,Hyderabad Wholesale Mart
+P0690,Pears Juice 690,Beverages,Juice,Pears,268.52,232.39,36.13,590,Metro Cash & Carry
+P0691,Pears Pet Care 691,Other,Pet Care,Pears,1058.02,844.97,213.05,790,Nature's Basket Supply
+P0692,Nestle Biscuits 692,Snacks,Biscuits,Nestle,851.22,705.45,145.77,688,Western India Grocery Supply
+P0693,Dabur Juice 693,Beverages,Juice,Dabur,599.62,393.61,206.01,885,Nature's Basket Supply
+P0694,Aashirvaad Tomatoes 694,Fresh Vegetables,Tomatoes,Aashirvaad,63.17,44.24,18.93,478,BigBasket Wholesale
+P0695,Head & Shoulders Dry Fruits 695,Snacks,Dry Fruits,Head & Shoulders,668.1,418.5,249.6,718,GreenHarvest Suppliers
+P0696,Patanjali Frozen Vegetables 696,Frozen Foods,Frozen Vegetables,Patanjali,909.08,716.83,192.25,231,Maharashtra Food Supply
+P0697,Surf Excel Flour 697,Staples,Flour,Surf Excel,296.1,250.6,45.5,872,Maharashtra Food Supply
+P0698,Paper Boat Pastries 698,Bakery,Pastries,Paper Boat,168.98,148.64,20.34,506,Western India Grocery Supply
+P0699,India Gate Tea 699,Beverages,Tea,India Gate,646.92,570.04,76.88,822,Reliance Consumer Products
+P0700,Nestle Soap 700,Personal Care,Soap,Nestle,428.29,309.27,119.02,53,Udaan Distribution
+P0701,Lifebuoy Hair Care 701,Personal Care,Hair Care,Lifebuoy,877.06,665.82,211.24,168,Nature's Basket Supply
+P0702,Lifebuoy Dry Fruits 702,Snacks,Dry Fruits,Lifebuoy,766.04,500.45,265.59,32,Nature's Basket Supply
+P0703,Pears Apples 703,Fresh Fruits,Apples,Pears,368.97,291.13,77.84,505,DMart Supply Chain
+P0704,Pears Cookies 704,Bakery,Cookies,Pears,90.89,70.99,19.9,196,UrbanBasket Suppliers
+P0705,Colgate Namkeen 705,Snacks,Namkeen,Colgate,609.62,487.3,122.32,288,UrbanBasket Suppliers
+P0706,India Gate Shampoo 706,Personal Care,Shampoo,India Gate,992.37,648.89,343.48,724,BigBasket Wholesale
+P0707,Clinic Plus Leafy Greens 707,Fresh Vegetables,Leafy Greens,Clinic Plus,80.88,56.84,24.04,585,South India FMCG Supply
+P0708,Kurkure Tomatoes 708,Fresh Vegetables,Tomatoes,Kurkure,200.22,173.28,26.94,569,BigBasket Wholesale
+P0709,Pears Surface Cleaner 709,Household Cleaning,Surface Cleaner,Pears,300.13,224.83,75.3,415,Western India Grocery Supply
+P0710,Parachute Ready Meals 710,Frozen Foods,Ready Meals,Parachute,989.12,744.06,245.06,815,FreshKart Distributors
+P0711,Britannia Paneer 711,Dairy,Paneer,Britannia,596.13,484.02,112.11,612,Udaan Distribution
+P0712,Himalaya Pet Care 712,Other,Pet Care,Himalaya,350.86,271.62,79.24,160,DMart Supply Chain
+P0713,Lifebuoy Chocolate 713,Snacks,Chocolate,Lifebuoy,733.0,482.81,250.19,632,Reliance Consumer Products
+P0714,Colgate Buns 714,Bakery,Buns,Colgate,243.53,157.5,86.03,871,Metro Cash & Carry
+P0715,Parachute Cakes 715,Bakery,Cakes,Parachute,163.68,136.52,27.16,601,Maharashtra Food Supply
+P0716,Tata Potatoes 716,Fresh Vegetables,Potatoes,Tata,204.67,155.55,49.12,421,Western India Grocery Supply
+P0717,Dove Paneer 717,Dairy,Paneer,Dove,324.74,245.47,79.27,70,Metro Cash & Carry
+P0718,Daawat Utility 718,Other,Utility,Daawat,278.15,238.99,39.16,65,UrbanBasket Suppliers
+P0719,Harpic Tomatoes 719,Fresh Vegetables,Tomatoes,Harpic,69.2,62.24,6.96,84,BigBasket Wholesale
+P0720,Paper Boat Utility 720,Other,Utility,Paper Boat,537.75,466.72,71.03,951,Maharashtra Food Supply
+P0721,Clinic Plus Grapes 721,Fresh Fruits,Grapes,Clinic Plus,439.2,282.2,157.0,712,Western India Grocery Supply
+P0722,Tata Toilet Cleaner 722,Household Cleaning,Toilet Cleaner,Tata,574.88,385.75,189.13,213,Reliance Consumer Products
+P0723,ITC Soft Drinks 723,Beverages,Soft Drinks,ITC,77.52,54.04,23.48,939,Udaan Distribution
+P0724,Kurkure Cookies 724,Bakery,Cookies,Kurkure,225.42,143.33,82.09,623,Western India Grocery Supply
+P0725,Himalaya Bread 725,Bakery,Bread,Himalaya,360.07,248.34,111.73,896,Udaan Distribution
+P0726,Vim Cakes 726,Bakery,Cakes,Vim,275.09,180.85,94.24,622,Nature's Basket Supply
+P0727,Nestle Tea 727,Beverages,Tea,Nestle,182.89,125.01,57.88,37,Reliance Consumer Products
+P0728,Harpic Toilet Cleaner 728,Household Cleaning,Toilet Cleaner,Harpic,407.85,273.93,133.92,986,Reliance Consumer Products
+P0729,Paper Boat Energy Drinks 729,Beverages,Energy Drinks,Paper Boat,672.25,542.64,129.61,944,Maharashtra Food Supply
+P0730,Kwality Wall's Kitchen Items 730,Other,Kitchen Items,Kwality Wall's,1167.76,832.42,335.34,452,FreshKart Distributors
+P0731,Parle Biscuits 731,Snacks,Biscuits,Parle,816.39,644.92,171.47,399,Reliance Consumer Products
+P0732,ITC Biscuits 732,Snacks,Biscuits,ITC,759.84,472.57,287.27,250,National FMCG Distribution
+P0733,Patanjali Biscuits 733,Snacks,Biscuits,Patanjali,305.06,240.49,64.57,857,Hyderabad Wholesale Mart
+P0734,Head & Shoulders Ice Cream 734,Frozen Foods,Ice Cream,Head & Shoulders,118.6,86.31,32.29,396,Maharashtra Food Supply
+P0735,Kwality Wall's Cakes 735,Bakery,Cakes,Kwality Wall's,456.66,373.38,83.28,164,FreshKart Distributors
+P0736,Fortune Hair Care 736,Personal Care,Hair Care,Fortune,765.1,654.46,110.64,641,South India FMCG Supply
+P0737,Saffola Detergent 737,Household Cleaning,Detergent,Saffola,567.54,422.11,145.43,552,BigBasket Wholesale
+P0738,Tata Baby Wipes 738,Baby Care,Baby Wipes,Tata,990.12,702.0,288.12,676,Maharashtra Food Supply
+P0739,Parle Surface Cleaner 739,Household Cleaning,Surface Cleaner,Parle,88.8,59.96,28.84,459,Nature's Basket Supply
+P0740,Dabur Butter 740,Dairy,Butter,Dabur,74.19,57.33,16.86,406,DailyNeeds Distribution
+P0741,Dettol Grapes 741,Fresh Fruits,Grapes,Dettol,50.25,44.0,6.25,461,Metro Cash & Carry
+P0742,Dabur Stationery 742,Other,Stationery,Dabur,1157.17,872.33,284.84,592,DailyNeeds Distribution
+P0743,Amul Cheese 743,Dairy,Cheese,Amul,587.33,437.61,149.72,25,Udaan Distribution
+P0744,Aashirvaad Ice Cream 744,Frozen Foods,Ice Cream,Aashirvaad,801.25,640.09,161.16,542,DMart Supply Chain
+P0745,Dabur Tea 745,Beverages,Tea,Dabur,381.83,268.16,113.67,707,Maharashtra Food Supply
+P0746,Nivea Pet Care 746,Other,Pet Care,Nivea,480.56,407.63,72.93,96,Udaan Distribution
+P0747,Daawat Root Vegetables 747,Fresh Vegetables,Root Vegetables,Daawat,98.49,71.86,26.63,626,Metro Cash & Carry
+P0748,Kwality Wall's Soap 748,Personal Care,Soap,Kwality Wall's,253.58,218.22,35.36,985,Udaan Distribution
+P0749,Pears Floor Cleaner 749,Household Cleaning,Floor Cleaner,Pears,129.98,115.04,14.94,744,South India FMCG Supply
+P0750,PepsiCo Namkeen 750,Snacks,Namkeen,PepsiCo,136.06,91.09,44.97,374,UrbanBasket Suppliers

@@ -1,0 +1,11 @@
+﻿Dataset,Rows,Columns,MissingValues,DuplicateRows
+dim_location,22,5,0,0
+dim_customers,12000,8,0,0
+dim_products,750,10,0,0
+fact_orders,120000,10,7184,0
+fact_order_items,358731,12,0,0
+fact_payments,120000,7,0,0
+fact_returns,4818,6,0,0
+fact_deliveries,120000,7,21552,0
+fact_inventory,24750,10,0,0
+dim_date,999,12,0,0

@@ -1,0 +1,91 @@
+﻿CheckName,Dataset,Status,AffectedRows,Message
+Required Columns,dim_location,PASS,0,All required columns are present.
+Required Columns,dim_customers,PASS,0,All required columns are present.
+Required Columns,dim_products,PASS,0,All required columns are present.
+Required Columns,dim_date,PASS,0,All required columns are present.
+Required Columns,fact_orders,PASS,0,All required columns are present.
+Required Columns,fact_order_items,PASS,0,All required columns are present.
+Required Columns,fact_payments,PASS,0,All required columns are present.
+Required Columns,fact_returns,PASS,0,All required columns are present.
+Required Columns,fact_deliveries,PASS,0,All required columns are present.
+Required Columns,fact_inventory,PASS,0,All required columns are present.
+Primary Key Missing,dim_location,PASS,0,No missing LocationID values.
+Primary Key Duplicate,dim_location,PASS,0,LocationID values are unique.
+Primary Key Missing,dim_customers,PASS,0,No missing CustomerID values.
+Primary Key Duplicate,dim_customers,PASS,0,CustomerID values are unique.
+Primary Key Missing,dim_products,PASS,0,No missing ProductID values.
+Primary Key Duplicate,dim_products,PASS,0,ProductID values are unique.
+Primary Key Missing,dim_date,PASS,0,No missing DateKey values.
+Primary Key Duplicate,dim_date,PASS,0,DateKey values are unique.
+Primary Key Missing,fact_orders,PASS,0,No missing OrderID values.
+Primary Key Duplicate,fact_orders,PASS,0,OrderID values are unique.
+Primary Key Missing,fact_order_items,PASS,0,No missing OrderItemID values.
+Primary Key Duplicate,fact_order_items,PASS,0,OrderItemID values are unique.
+Primary Key Missing,fact_payments,PASS,0,No missing PaymentID values.
+Primary Key Duplicate,fact_payments,PASS,0,PaymentID values are unique.
+Primary Key Missing,fact_returns,PASS,0,No missing ReturnID values.
+Primary Key Duplicate,fact_returns,PASS,0,ReturnID values are unique.
+Primary Key Missing,fact_deliveries,PASS,0,No missing DeliveryID values.
+Primary Key Duplicate,fact_deliveries,PASS,0,DeliveryID values are unique.
+Primary Key Missing,fact_inventory,PASS,0,No missing InventoryID values.
+Primary Key Duplicate,fact_inventory,PASS,0,InventoryID values are unique.
+Missing Values,dim_location,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,dim_customers,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,dim_products,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,dim_date,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,fact_orders,PASS,0,No unexpected missing values. Total missing: 7184.
+Missing Values,fact_order_items,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,fact_payments,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,fact_returns,PASS,0,No unexpected missing values. Total missing: 0.
+Missing Values,fact_deliveries,PASS,0,No unexpected missing values. Total missing: 21552.
+Missing Values,fact_inventory,PASS,0,No unexpected missing values. Total missing: 0.
+Foreign Key,Orders -> Customers,PASS,0,CustomerID correctly references CustomerID.
+Foreign Key,Order Items -> Orders,PASS,0,OrderID correctly references OrderID.
+Foreign Key,Order Items -> Products,PASS,0,ProductID correctly references ProductID.
+Foreign Key,Payments -> Orders,PASS,0,OrderID correctly references OrderID.
+Foreign Key,Returns -> Orders,PASS,0,OrderID correctly references OrderID.
+Foreign Key,Deliveries -> Orders,PASS,0,OrderID correctly references OrderID.
+Foreign Key,Inventory -> Products,PASS,0,ProductID correctly references ProductID.
+Non-Negative Values,dim_products,PASS,0,UnitPrice contains no negative values.
+Non-Negative Values,dim_products,PASS,0,CostPrice contains no negative values.
+Non-Negative Values,dim_products,PASS,0,Margin contains no negative values.
+Non-Negative Values,dim_products,PASS,0,StockQuantity contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,Quantity contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,UnitPrice contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,Discount contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,Tax contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,Revenue contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,NetRevenue contains no negative values.
+Non-Negative Values,fact_order_items,PASS,0,CostAmount contains no negative values.
+Non-Negative Values,fact_payments,PASS,0,Amount contains no negative values.
+Non-Negative Values,fact_inventory,PASS,0,OpeningStock contains no negative values.
+Non-Negative Values,fact_inventory,PASS,0,ReceivedQuantity contains no negative values.
+Non-Negative Values,fact_inventory,PASS,0,SoldQuantity contains no negative values.
+Non-Negative Values,fact_inventory,PASS,0,ClosingStock contains no negative values.
+Non-Negative Values,fact_inventory,PASS,0,UnitCost contains no negative values.
+Non-Negative Values,fact_inventory,PASS,0,InventoryValue contains no negative values.
+Non-Negative Values,fact_deliveries,PASS,0,DeliveryTimeMinutes contains no negative values.
+Non-Negative Values,fact_deliveries,PASS,0,TargetDeliveryMinutes contains no negative values.
+Product Margin,dim_products,PASS,0,Margin equals UnitPrice - CostPrice.
+Revenue Calculation,fact_order_items,PASS,0,Revenue matches Quantity × UnitPrice.
+Net Revenue Calculation,fact_order_items,PASS,0,NetRevenue matches Revenue - Discount + Tax.
+Order Status,fact_orders,PASS,0,All order statuses are valid.
+Cancellation Status,fact_orders,PASS,0,Cancelled orders have correct cancellation status.
+Return Status,fact_orders,PASS,0,Returned orders have correct return status.
+Return Order Status,fact_returns,PASS,0,All return records belong to Returned orders.
+Payment Coverage,fact_payments,PASS,0,"All 120,000 orders have payment records."
+Payment Per Order,fact_payments,PASS,0,No order has multiple payment records.
+Cancelled Delivery Mapping,fact_deliveries,PASS,0,Cancelled orders are correctly marked in delivery records.
+Delivery Time,fact_deliveries,PASS,0,Active deliveries have delivery times.
+Inventory Calculation,fact_inventory,PASS,0,ClosingStock follows Opening + Received - Sold.
+Inventory Value,fact_inventory,PASS,0,InventoryValue matches ClosingStock × UnitCost.
+Order Date Range,fact_orders,PASS,0,All order dates are within the configured business period.
+Signup Before Order,fact_orders,PASS,0,Customers do not place orders before signup.
+Dataset Size,dim_customers,PASS,0,"Dataset has 12,000 rows; minimum required is 12,000."
+Dataset Size,dim_products,PASS,0,Dataset has 750 rows; minimum required is 750.
+Dataset Size,fact_orders,PASS,0,"Dataset has 120,000 rows; minimum required is 120,000."
+Dataset Size,fact_order_items,PASS,0,"Dataset has 358,731 rows; minimum required is 200,000."
+Dataset Size,fact_payments,PASS,0,"Dataset has 120,000 rows; minimum required is 120,000."
+Order Item Coverage,fact_order_items,PASS,0,Every order has at least one order-item record.
+Customer Order Coverage,fact_orders,PASS,0,All orders belong to valid customers.
+Customer Location Consistency,fact_orders,PASS,0,Order city/state matches customer master.

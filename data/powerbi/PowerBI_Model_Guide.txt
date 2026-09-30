@@ -1,0 +1,199 @@
+
+QUICKCART POWER BI DATA MODEL
+=============================
+
+DIMENSIONS
+----------
+
+dim_customers
+    CustomerID -> fact_orders.CustomerID
+
+dim_products
+    ProductID -> fact_order_items.ProductID
+
+dim_date
+    Date -> fact_orders.OrderDate
+
+dim_location
+    City / State -> fact_orders.City / State
+
+
+FACT TABLES
+-----------
+
+fact_orders
+fact_order_items
+fact_payments
+fact_returns
+fact_deliveries
+fact_inventory
+
+
+RECOMMENDED CORE MODEL
+----------------------
+
+dim_customers
+       |
+       | CustomerID
+       v
+fact_orders
+       |
+       | OrderID
+       v
+fact_order_items
+       |
+       | ProductID
+       v
+dim_products
+
+
+DATE
+----
+
+dim_date[Date]
+       |
+       v
+fact_orders[OrderDate]
+
+
+PAYMENTS
+--------
+
+fact_orders[OrderID]
+       |
+       v
+fact_payments[OrderID]
+
+
+RETURNS
+-------
+
+fact_orders[OrderID]
+       |
+       v
+fact_returns[OrderID]
+
+
+DELIVERIES
+----------
+
+fact_orders[OrderID]
+       |
+       v
+fact_deliveries[OrderID]
+
+
+INVENTORY
+---------
+
+dim_products[ProductID]
+       |
+       v
+fact_inventory[ProductID]
+
+
+POWER BI PAGES
+--------------
+
+1. Executive Overview
+
+2. Sales Analysis
+
+3. Product Analysis
+
+4. Customer Intelligence
+
+5. Regional Analysis
+
+6. Operations
+
+7. Inventory
+
+8. Payments & Discounts
+
+
+EXECUTIVE OVERVIEW KPIs
+-----------------------
+
+Total Revenue
+Net Revenue
+Total Orders
+Total Customers
+Total Units
+AOV
+Gross Profit
+Gross Margin %
+Return Rate %
+Cancellation Rate %
+
+
+SALES PAGE
+----------
+
+Monthly Revenue
+Monthly Orders
+Revenue by Category
+Revenue by State
+Revenue by City
+Revenue Trend
+
+
+PRODUCT PAGE
+------------
+
+Top Products
+Category Performance
+Brand Performance
+Units Sold
+Gross Profit
+Gross Margin %
+
+
+CUSTOMER PAGE
+------------
+
+Customer Segments
+Customer Revenue
+Orders per Customer
+Top Customers
+Customer Distribution
+
+
+REGIONAL PAGE
+-------------
+
+State Revenue
+City Revenue
+Orders by State
+Customers by State
+
+
+OPERATIONS PAGE
+---------------
+
+Average Delivery Time
+On-Time %
+Late %
+Delivery Partner Performance
+Return Rate
+Cancellation Rate
+
+
+INVENTORY PAGE
+--------------
+
+Inventory Value
+Low Stock Products
+Stock-Out Products
+Closing Stock
+Inventory Status
+
+
+PAYMENT PAGE
+------------
+
+Payment Method
+Payment Amount
+Payment Success Rate
+Discount %
+Return Refund Amount

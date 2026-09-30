@@ -1,0 +1,2 @@
+TotalOrders,DeliveredOrders,CancelledOrders,ReturnedOrders,PendingOrders,CancellationRatePercent,ReturnRatePercent
+120000,107998.0,7184.0,4818.0,0.0,5.986666666666666,4.015
