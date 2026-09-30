@@ -1,6 +1,6 @@
-DeliveryPartner,Deliveries,AvgDeliveryMinutes,AvgTargetMinutes,Delivered,LateDeliveries
-QuickCart Logistics,23904,86.72,86.84,0.0,0.0
-XpressBees,24255,86.82,87.51,0.0,0.0
-Ecom Express,24077,86.93,87.36,0.0,0.0
-Shadowfax,23917,86.99,87.57,0.0,0.0
-Delhivery,23847,87.02,87.47,0.0,0.0
+DeliveryPartner,Deliveries,AvgDeliveryMinutes,AvgTargetMinutes,DeliveredOnTime,LateDeliveries,CancelledDeliveries
+QuickCart Logistics,23904,86.72,86.84,11749.0,10738.0,1417.0
+XpressBees,24255,86.82,87.51,12046.0,10733.0,1476.0
+Ecom Express,24077,86.93,87.36,11816.0,10819.0,1442.0
+Shadowfax,23917,86.99,87.57,11921.0,10577.0,1419.0
+Delhivery,23847,87.02,87.47,11787.0,10630.0,1430.0

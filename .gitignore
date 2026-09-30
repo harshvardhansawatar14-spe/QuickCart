@@ -20,7 +20,7 @@ venv.bak/
 
 # Environment / secrets
 .env
-.env.*
+.env
 !.env.example
 
 # PyCharm / IntelliJ

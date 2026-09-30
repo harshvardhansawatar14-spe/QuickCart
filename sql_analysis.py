@@ -428,17 +428,24 @@ def analysis_payments(conn):
 
         SUM(
             CASE
-                WHEN PaymentStatus = 'Success'
+                WHEN PaymentStatus = 'Completed'
                 THEN 1 ELSE 0
             END
         ) AS SuccessfulPayments,
 
         SUM(
             CASE
-                WHEN PaymentStatus != 'Success'
+                WHEN PaymentStatus = 'Cancelled'
                 THEN 1 ELSE 0
             END
-        ) AS FailedPayments
+        ) AS CancelledPayments,
+
+        SUM(
+            CASE
+                WHEN PaymentStatus = 'Refunded'
+                THEN 1 ELSE 0
+            END
+        ) AS RefundedPayments
 
     FROM fact_payments
 
@@ -511,16 +518,24 @@ def analysis_delivery(conn):
 
         SUM(
             CASE
-                WHEN DeliveryStatus = 'Delivered'
+                WHEN DeliveryStatus = 'Delivered On Time'
                 THEN 1 ELSE 0
             END
-        ) AS Delivered,
+        ) AS DeliveredOnTime,
 
         SUM(
             CASE
-                WHEN DeliveryStatus = 'Late'
+                WHEN DeliveryStatus = 'Delivered Late'
                 THEN 1 ELSE 0
-        END) AS LateDeliveries
+            END
+        ) AS LateDeliveries,
+
+        SUM(
+            CASE
+                WHEN DeliveryStatus = 'Cancelled'
+                THEN 1 ELSE 0
+            END
+        ) AS CancelledDeliveries
 
     FROM fact_deliveries
 

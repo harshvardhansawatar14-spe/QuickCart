@@ -1,19 +1,28 @@
+-- =========================================
+-- QUICKCART POWER BI - DAX MEASURES
+-- =========================================
 
-QUICKCART POWER BI - DAX MEASURES
-=================================
 
+-- =========================================
 -- SALES KPIs
+-- =========================================
 
 Total Revenue =
-SUM(fact_order_items[Revenue])
+SUM(
+    fact_order_items[Revenue]
+)
 
 
 Net Revenue =
-SUM(fact_order_items[NetRevenue])
+SUM(
+    fact_order_items[NetRevenue]
+)
 
 
 Total Cost =
-SUM(fact_order_items[CostAmount])
+SUM(
+    fact_order_items[CostAmount]
+)
 
 
 Gross Profit =
@@ -28,18 +37,26 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- ORDER KPIs
+-- =========================================
 
 Total Orders =
-DISTINCTCOUNT(fact_orders[OrderID])
+DISTINCTCOUNT(
+    fact_orders[OrderID]
+)
 
 
 Total Customers =
-DISTINCTCOUNT(fact_orders[CustomerID])
+DISTINCTCOUNT(
+    fact_orders[CustomerID]
+)
 
 
 Total Units =
-SUM(fact_order_items[Quantity])
+SUM(
+    fact_order_items[Quantity]
+)
 
 
 Average Order Value =
@@ -58,7 +75,9 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- CUSTOMER KPIs
+-- =========================================
 
 Average Customer Revenue =
 DIVIDE(
@@ -68,7 +87,9 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- DISCOUNT
+-- =========================================
 
 Average Discount % =
 AVERAGE(
@@ -82,7 +103,9 @@ SUM(
 )
 
 
+-- =========================================
 -- RETURNS
+-- =========================================
 
 Returned Orders =
 CALCULATE(
@@ -99,7 +122,9 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- CANCELLATIONS
+-- =========================================
 
 Cancelled Orders =
 CALCULATE(
@@ -116,7 +141,9 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- DELIVERY
+-- =========================================
 
 Average Delivery Time =
 AVERAGE(
@@ -124,16 +151,31 @@ AVERAGE(
 )
 
 
-On Time Deliveries =
+Total Deliveries =
 CALCULATE(
-    COUNTROWS(fact_deliveries),
-    fact_deliveries[DeliveryTimeMinutes]
-        <= fact_deliveries[TargetDeliveryMinutes]
+    COUNTROWS(
+        fact_deliveries
+    ),
+    fact_deliveries[DeliveryStatus] <> "Cancelled"
 )
 
 
-Total Deliveries =
-COUNTROWS(fact_deliveries)
+On Time Deliveries =
+CALCULATE(
+    COUNTROWS(
+        fact_deliveries
+    ),
+    fact_deliveries[DeliveryStatus] = "Delivered On Time"
+)
+
+
+Late Deliveries =
+CALCULATE(
+    COUNTROWS(
+        fact_deliveries
+    ),
+    fact_deliveries[DeliveryStatus] = "Delivered Late"
+)
 
 
 On Time Delivery % =
@@ -141,15 +183,6 @@ DIVIDE(
     [On Time Deliveries],
     [Total Deliveries],
     0
-)
-
-
-Late Deliveries =
-CALCULATE(
-    COUNTROWS(fact_deliveries),
-    fact_deliveries[DeliveryTimeMinutes]
-        >
-        fact_deliveries[TargetDeliveryMinutes]
 )
 
 
@@ -161,7 +194,9 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- INVENTORY
+-- =========================================
 
 Inventory Value =
 SUM(
@@ -171,19 +206,25 @@ SUM(
 
 Low Stock Products =
 CALCULATE(
-    DISTINCTCOUNT(fact_inventory[ProductID]),
+    DISTINCTCOUNT(
+        fact_inventory[ProductID]
+    ),
     fact_inventory[InventoryStatus] = "Low Stock"
 )
 
 
 Stock Out Products =
 CALCULATE(
-    DISTINCTCOUNT(fact_inventory[ProductID]),
+    DISTINCTCOUNT(
+        fact_inventory[ProductID]
+    ),
     fact_inventory[InventoryStatus] = "Out of Stock"
 )
 
 
+-- =========================================
 -- TIME INTELLIGENCE
+-- =========================================
 
 Previous Month Revenue =
 CALCULATE(
@@ -198,8 +239,7 @@ CALCULATE(
 
 MoM Revenue Growth % =
 DIVIDE(
-    [Net Revenue]
-        - [Previous Month Revenue],
+    [Net Revenue] - [Previous Month Revenue],
     [Previous Month Revenue],
     0
 )
@@ -218,8 +258,7 @@ CALCULATE(
 
 YoY Revenue Growth % =
 DIVIDE(
-    [Net Revenue]
-        - [Previous Year Revenue],
+    [Net Revenue] - [Previous Year Revenue],
     [Previous Year Revenue],
     0
 )
@@ -238,31 +277,38 @@ CALCULATE(
 
 Order Growth % =
 DIVIDE(
-    [Total Orders]
-        - [Previous Year Orders],
+    [Total Orders] - [Previous Year Orders],
     [Previous Year Orders],
     0
 )
 
 
+-- =========================================
 -- PAYMENT
+-- =========================================
 
 Successful Payments =
 CALCULATE(
-    COUNTROWS(fact_payments),
-    fact_payments[PaymentStatus] = "Success"
+    COUNTROWS(
+        fact_payments
+    ),
+    fact_payments[PaymentStatus] = "Completed"
 )
 
 
 Payment Success Rate % =
 DIVIDE(
     [Successful Payments],
-    COUNTROWS(fact_payments),
+    COUNTROWS(
+        fact_payments
+    ),
     0
 )
 
 
+-- =========================================
 -- PRODUCT
+-- =========================================
 
 Average Selling Price =
 DIVIDE(
@@ -272,7 +318,9 @@ DIVIDE(
 )
 
 
+-- =========================================
 -- CUSTOMER SEGMENTS
+-- =========================================
 
 Champions Customers =
 CALCULATE(

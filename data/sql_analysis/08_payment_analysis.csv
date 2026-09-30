@@ -1,6 +1,6 @@
-PaymentMethod,Transactions,PaymentAmount,SuccessfulPayments,FailedPayments
-UPI,55109,297628882.76,0.0,55109.0
-Cards,32429,176416269.03,0.0,32429.0
-Cash on Delivery,16838,91802871.1,0.0,16838.0
-Wallets,9687,52365110.18,0.0,9687.0
-Net Banking,5937,32365493.1,0.0,5937.0
+PaymentMethod,Transactions,PaymentAmount,SuccessfulPayments,CancelledPayments,RefundedPayments
+UPI,55109,297628882.76,51780.0,1674.0,1655.0
+Cards,32429,176416269.03,30481.0,963.0,985.0
+Cash on Delivery,16838,91802871.1,15852.0,508.0,478.0
+Wallets,9687,52365110.18,9131.0,273.0,283.0
+Net Banking,5937,32365493.1,5572.0,200.0,165.0
