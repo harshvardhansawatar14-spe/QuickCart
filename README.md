@@ -141,6 +141,23 @@ Key areas include:
 
 ---
 
+## 📊 Power BI Dashboard Preview
+
+### 1. Executive Overview
+
+![QuickCart Executive Overview](quickcart_powerbi_page_1.png)
+
+### 2. Sales & Revenue Analysis
+
+![QuickCart Sales & Revenue Analysis](quickcart_powerbi_page_2.png)
+
+### 3. Customer & Product Analysis
+
+![QuickCart Customer & Product Analysis](quickcart_powerbi_page_3.png)
+
+
+
+
 ## Data Pipeline
 
 The project follows an end-to-end data analytics workflow:
