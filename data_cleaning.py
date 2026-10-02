@@ -83,7 +83,6 @@ def load_csv(filename: str) -> pd.DataFrame:
         low_memory=False,
     )
 
-
 def save_cleaned(
     dataframe: pd.DataFrame,
     filename: str,
