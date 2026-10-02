@@ -158,6 +158,30 @@ Key areas include:
 
 
 
+## 📁 Project Structure
+
+```text
+QuickCart/
+│
+├── data/
+│
+├── data_generator.py
+├── data_cleaning.py
+├── data_validation.py
+├── database.py
+├── sql_analysis.py
+├── check_payment.py
+├── powerbi_setup.py
+├── main.py
+├── main1.py
+├── config.py
+├── requirements.txt
+├── README.md
+└── LICENSE
+
+
+
+
 ## Data Pipeline
 
 The project follows an end-to-end data analytics workflow:
