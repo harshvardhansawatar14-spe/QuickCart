@@ -155,8 +155,7 @@ Key areas include:
 
 ![QuickCart Customer & Product Analysis](quickcart_powerbi_page_3.png)
 
-
-
+---
 
 ## 📁 Project Structure
 
@@ -178,9 +177,38 @@ QuickCart/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
+---
 
+## ⚙️ Installation & Setup
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/harshvardhansawatar14-spe/QuickCart.git
+cd QuickCart
+```
+
+### 2. Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configure Database
+
+Update the MySQL database credentials in `config.py`.
+
+### 4. Run the Project
+
+```bash
+python main.py
+```
+
+The project will generate, process, validate, and analyze the E-Commerce data according to the configured workflow.
+
+---
 
 ## Data Pipeline
 
@@ -204,3 +232,4 @@ Power BI Data Model
 DAX Measures
       ↓
 Interactive Dashboard
+```
