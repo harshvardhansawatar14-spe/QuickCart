@@ -20,7 +20,6 @@ The module performs:
 - Business-rule validation
 - Standardized column ordering
 """
-
 from __future__ import annotations
 
 import logging
