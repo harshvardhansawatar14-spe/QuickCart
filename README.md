@@ -149,13 +149,11 @@ Key areas include:
 
 ### 2. Sales & Revenue Analysis
 
-![QuickCart Sales & Revenue Analysis](quickcart_powerbi_page_2.png)
+![QuickCart Sales Analysis](quickcart_powerbi_page_2.png)
 
 ### 3. Customer & Product Analysis
 
-![QuickCart Customer & Product Analysis](quickcart_powerbi_page_3.png)
-
----
+![QuickCart Customer Analysis](quickcart_powerbi_page_3.png)
 
 ## 📁 Project Structure
 
