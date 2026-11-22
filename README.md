@@ -155,9 +155,6 @@ Key areas include:
 
 ![QuickCart Customer Analysis](quickcart_powerbi_page_3.png)
 
-## 📁 Project Structure
-
-```text
 QuickCart/
 │
 ├── data/
@@ -165,19 +162,50 @@ QuickCart/
 ├── data_generator.py
 ├── data_cleaning.py
 ├── data_validation.py
+├── csv_quality_checker.py
 ├── database.py
 ├── sql_analysis.py
 ├── check_payment.py
+├── project_health_check.py
 ├── powerbi_setup.py
+├── logger_config.py
+│
 ├── main.py
 ├── main1.py
 ├── config.py
 ├── requirements.txt
+│
+├── quickcart_powerbi_page_1.png
+├── quickcart_powerbi_page_2.png
+├── quickcart_powerbi_page_3.png
+│
+├── README.md
+└── LICENSEQuickCart/
+│
+├── data/
+│
+├── data_generator.py
+├── data_cleaning.py
+├── data_validation.py
+├── csv_quality_checker.py
+├── database.py
+├── sql_analysis.py
+├── check_payment.py
+├── project_health_check.py
+├── powerbi_setup.py
+├── logger_config.py
+│
+├── main.py
+├── main1.py
+├── config.py
+├── requirements.txt
+│
+├── quickcart_powerbi_page_1.png
+├── quickcart_powerbi_page_2.png
+├── quickcart_powerbi_page_3.png
+│
 ├── README.md
 └── LICENSE
-```
-
----
 
 ## ⚙️ Installation & Setup
 
