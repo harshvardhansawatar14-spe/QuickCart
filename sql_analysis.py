@@ -1,7 +1,6 @@
 import os
 import mysql.connector
 import pandas as pd
-
 # ============================================================
 # QUICKCART - SQL BUSINESS ANALYSIS
 # ============================================================
