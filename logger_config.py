@@ -11,5 +11,4 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
-
 logger = logging.getLogger("QuickCart")
