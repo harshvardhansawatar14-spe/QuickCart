@@ -8,7 +8,6 @@ conn = mysql.connector.connect(
     password=os.getenv("QUICKCART_MYSQL_PASSWORD"),
     database="quickcart_ecommerce"
 )
-
 cursor = conn.cursor()
 
 cursor.execute("""
