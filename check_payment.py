@@ -9,7 +9,6 @@ conn = mysql.connector.connect(
     database="quickcart_ecommerce"
 )
 cursor = conn.cursor()
-
 cursor.execute("""
 SELECT DeliveryStatus, COUNT(*) AS Count
 FROM fact_deliveries
