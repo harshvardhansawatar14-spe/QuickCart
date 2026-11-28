@@ -14,7 +14,6 @@ SELECT DeliveryStatus, COUNT(*) AS Count
 FROM fact_deliveries
 GROUP BY DeliveryStatus
 """)
-
 for row in cursor.fetchall():
     print(row)
 
